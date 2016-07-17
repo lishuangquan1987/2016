@@ -1,0 +1,8 @@
+F:\c# program\Projects\图片缩放\图片缩放\bin\Debug\图片缩放.exe
+F:\c# program\Projects\图片缩放\图片缩放\bin\Debug\图片缩放.pdb
+F:\c# program\Projects\图片缩放\图片缩放\obj\Debug\图片缩放.Form1.resources
+F:\c# program\Projects\图片缩放\图片缩放\obj\Debug\图片缩放.Properties.Resources.resources
+F:\c# program\Projects\图片缩放\图片缩放\obj\Debug\图片缩放.csproj.GenerateResource.Cache
+F:\c# program\Projects\图片缩放\图片缩放\obj\Debug\图片缩放.exe
+F:\c# program\Projects\图片缩放\图片缩放\obj\Debug\图片缩放.pdb
+F:\c# program\Projects\图片缩放\图片缩放\obj\Debug\图片缩放.csprojResolveAssemblyReference.cache

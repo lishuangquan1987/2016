@@ -1,0 +1,9 @@
+D:\Project\Xiongxiaokang\Xiongxiaokang\bin\Debug\Xiongxiaokang.exe
+D:\Project\Xiongxiaokang\Xiongxiaokang\bin\Debug\Xiongxiaokang.pdb
+D:\Project\Xiongxiaokang\Xiongxiaokang\obj\Debug\Xiongxiaokang.Form1.resources
+D:\Project\Xiongxiaokang\Xiongxiaokang\obj\Debug\Xiongxiaokang.Properties.Resources.resources
+D:\Project\Xiongxiaokang\Xiongxiaokang\obj\Debug\Xiongxiaokang.csproj.GenerateResource.Cache
+D:\Project\Xiongxiaokang\Xiongxiaokang\obj\Debug\Xiongxiaokang.exe
+D:\Project\Xiongxiaokang\Xiongxiaokang\obj\Debug\Xiongxiaokang.pdb
+F:\c# program\Projects\Xiongxiaokang\Xiongxiaokang\obj\Debug\Xiongxiaokang.exe
+F:\c# program\Projects\Xiongxiaokang\Xiongxiaokang\obj\Debug\Xiongxiaokang.pdb
