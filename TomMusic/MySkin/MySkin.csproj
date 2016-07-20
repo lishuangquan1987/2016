@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1462F4BF-5DB2-434B-8064-DC7319E70F46}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MySkin</RootNamespace>
+    <AssemblyName>TSkin</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>
+    </ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="API\GraphicsPathHelper.cs" />
+    <Compile Include="API\ImageDrawRect.cs" />
+    <Compile Include="API\RoundStyle.cs" />
+    <Compile Include="API\Win32.cs" />
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Service Include="{94E38DFF-614B-4cbd-B67C-F211BB35CE8B}" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Debug\MySkin.Main.resources" />
+    <EmbeddedResource Include="obj\Debug\MySkin.MainForm.resources" />
+    <EmbeddedResource Include="obj\Debug\MySkin.Properties.Resources.resources" />
+    <EmbeddedResource Include="obj\Release\MySkin.Controls.Metro.MetroWeather.resources" />
+    <EmbeddedResource Include="obj\Release\MySkin.Controls.MetroButton.resources" />
+    <EmbeddedResource Include="obj\Release\MySkin.Controls.MetroButtonClose.resources" />
+    <EmbeddedResource Include="obj\Release\MySkin.Controls.MetroButtonCloseLight.resources" />
+    <EmbeddedResource Include="obj\Release\MySkin.Controls.MetroButtonCloseMINI.resources" />
+    <EmbeddedResource Include="obj\Release\MySkin.Controls.MetroButtonMin.resources" />
+    <EmbeddedResource Include="obj\Release\MySkin.Controls.MetroButtonMinLight.resources" />
+    <EmbeddedResource Include="obj\Release\MySkin.Controls.MetroButtonSearch.resources" />
+    <EmbeddedResource Include="obj\Release\MySkin.Controls.MetroCheckBox.resources" />
+    <EmbeddedResource Include="obj\Release\MySkin.Controls.MetroImageLoad.resources" />
+    <EmbeddedResource Include="obj\Release\MySkin.Controls.MetroLoding.resources" />
+    <EmbeddedResource Include="obj\Release\MySkin.Controls.MetroMinLoding.resources" />
+    <EmbeddedResource Include="obj\Release\MySkin.Controls.MetroPictureBoxFrame.resources" />
+    <EmbeddedResource Include="obj\Release\MySkin.Controls.MetroPictureBoxUnfinish.resources" />
+    <EmbeddedResource Include="obj\Release\MySkin.Controls.MetroTextBox.resources" />
+    <EmbeddedResource Include="obj\Release\MySkin.Controls.MetroTextBoxSearch.resources" />
+    <EmbeddedResource Include="obj\Release\MySkin.Controls.MyBook.resources" />
+    <EmbeddedResource Include="obj\Release\MySkin.Controls.MyBookScrollbar.resources" />
+    <EmbeddedResource Include="obj\Release\MySkin.Controls.MyClose.resources" />
+    <EmbeddedResource Include="obj\Release\MySkin.Controls.MyColorSelector.resources" />
+    <EmbeddedResource Include="obj\Release\MySkin.Controls.MyList.resources" />
+    <EmbeddedResource Include="obj\Release\MySkin.Controls.MyListBox.resources" />
+    <EmbeddedResource Include="obj\Release\MySkin.Controls.MyLoading.resources" />
+    <EmbeddedResource Include="obj\Release\MySkin.Controls.MyOpenButton.resources" />
+    <EmbeddedResource Include="obj\Release\MySkin.Controls.MyPanel.resources" />
+    <EmbeddedResource Include="obj\Release\MySkin.Controls.MyTextBox.resources" />
+    <EmbeddedResource Include="obj\Release\MySkin.Controls.MyVolume.resources" />
+    <EmbeddedResource Include="obj\Release\MySkin.InfoBox.resources" />
+    <EmbeddedResource Include="obj\Release\MySkin.InfoBoxBase.resources" />
+    <EmbeddedResource Include="obj\Release\MySkin.Main.resources" />
+    <EmbeddedResource Include="obj\Release\MySkin.MainForm.resources" />
+    <EmbeddedResource Include="obj\Release\MySkin.MainGIF.resources" />
+    <EmbeddedResource Include="obj\Release\MySkin.MyCloseMin.resources" />
+    <EmbeddedResource Include="obj\Release\MySkin.Properties.Resources.resources" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferences.cache" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="obj\Debug\MySkin.csproj.GenerateResource.Cache" />
+    <None Include="obj\Release\DesignTimeResolveAssemblyReferences.cache" />
+    <None Include="obj\Release\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="obj\Release\MySkin.csproj.GenerateResource.Cache" />
+    <None Include="obj\Release\MySkin.csprojResolveAssemblyReference.cache" />
+    <None Include="Resources\QihooForSand_bg_A.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\Skin.dll" />
+    <Content Include="bin\Debug\Skin.pdb" />
+    <Content Include="bin\Release\MySkin.dll" />
+    <Content Include="bin\Release\MySkin.pdb" />
+    <Content Include="obj\Debug\MySkin.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\Skin.dll" />
+    <Content Include="obj\Debug\Skin.pdb" />
+    <Content Include="obj\Debug\TempPE\Properties.Resources.Designer.cs.dll" />
+    <Content Include="obj\Release\MySkin.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Release\MySkin.dll" />
+    <Content Include="obj\Release\MySkin.pdb" />
+    <Content Include="obj\Release\TempPE\Properties.Resources.Designer.cs.dll" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

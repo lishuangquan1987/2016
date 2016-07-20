@@ -7,3 +7,11 @@ D:\Project\Xiongxiaokang\Xiongxiaokang\obj\Debug\Xiongxiaokang.exe
 D:\Project\Xiongxiaokang\Xiongxiaokang\obj\Debug\Xiongxiaokang.pdb
 F:\c# program\Projects\Xiongxiaokang\Xiongxiaokang\obj\Debug\Xiongxiaokang.exe
 F:\c# program\Projects\Xiongxiaokang\Xiongxiaokang\obj\Debug\Xiongxiaokang.pdb
+F:\Project2016\Xiongxiaokang\Xiongxiaokang\obj\Debug\Xiongxiaokang.exe
+F:\Project2016\Xiongxiaokang\Xiongxiaokang\obj\Debug\Xiongxiaokang.pdb
+F:\Project2016\Xiongxiaokang\Xiongxiaokang\bin\Debug\Xiongxiaokang.exe
+F:\Project2016\Xiongxiaokang\Xiongxiaokang\bin\Debug\Xiongxiaokang.pdb
+F:\Project2016\Xiongxiaokang\Xiongxiaokang\obj\Debug\Xiongxiaokang.csprojResolveAssemblyReference.cache
+F:\Project2016\Xiongxiaokang\Xiongxiaokang\obj\Debug\Xiongxiaokang.Form1.resources
+F:\Project2016\Xiongxiaokang\Xiongxiaokang\obj\Debug\Xiongxiaokang.Properties.Resources.resources
+F:\Project2016\Xiongxiaokang\Xiongxiaokang\obj\Debug\Xiongxiaokang.csproj.GenerateResource.Cache

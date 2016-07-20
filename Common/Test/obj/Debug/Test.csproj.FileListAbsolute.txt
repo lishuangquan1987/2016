@@ -1,0 +1,10 @@
+F:\Project2016\Common\Test\bin\Debug\Test.exe
+F:\Project2016\Common\Test\bin\Debug\Test.pdb
+F:\Project2016\Common\Test\bin\Debug\Common.dll
+F:\Project2016\Common\Test\bin\Debug\Common.pdb
+F:\Project2016\Common\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+F:\Project2016\Common\Test\obj\Debug\Test.Form1.resources
+F:\Project2016\Common\Test\obj\Debug\Test.Properties.Resources.resources
+F:\Project2016\Common\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+F:\Project2016\Common\Test\obj\Debug\Test.exe
+F:\Project2016\Common\Test\obj\Debug\Test.pdb

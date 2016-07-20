@@ -147,8 +147,13 @@ namespace Xiongxiaokang
         {
             Notification.GetInstance().AddObserver("log", Log);
             timer1.Enabled = true;
+           
         }
-
+        //protected override void OnMouseMove(MouseEventArgs e)
+        //{
+        //    base.OnMouseMove(e);
+        //    this.toolStripStatusLabel1.Text = string.Format("当前鼠标位置：（{0}，{1}）", MousePosition.X, MousePosition.Y);
+        //}
         private void timer1_Tick(object sender, EventArgs e)
         {
             string time = DateTime.Now.ToString();

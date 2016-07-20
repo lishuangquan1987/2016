@@ -1,0 +1,296 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8F4D786D-8879-4909-95FA-E64110434FAE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>xj.MusicPlayer</RootNamespace>
+    <AssemblyName>TomMusic</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>ftp://ha:ha%40104.160.33.177/datelist/</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>3.3.2.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>99F7EE2DF1343AA4221A48DC4E72D62E8D69F60E</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>xj.MusicPlayer_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Tags">
+      <HintPath>..\lib\Tags.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Abut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abut.Designer.cs">
+      <DependentUpon>Abut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddMusic.cs" />
+    <Compile Include="ctrl\NavControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ctrl\NavControl.Designer.cs">
+      <DependentUpon>NavControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ctrl\TrackBar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ctrl\TrackBar.designer.cs">
+      <DependentUpon>TrackBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Down.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Down.Designer.cs">
+      <DependentUpon>Down.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Update.cs" />
+    <Compile Include="DynamicLrcWH.cs" />
+    <Compile Include="GetHtmlCode.cs" />
+    <Compile Include="LoadingPic.cs" />
+    <Compile Include="LyricHelper.cs" />
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Music.cs" />
+    <Compile Include="MusicData.cs" />
+    <Compile Include="MusicInfo.cs" />
+    <Compile Include="MusicInformation.cs" />
+    <Compile Include="MusicOnline.cs" />
+    <Compile Include="MusicTimes.cs" />
+    <Compile Include="PlayerType.cs" />
+    <Compile Include="PlayHelper.cs" />
+    <Compile Include="PlayType.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReadLrcFile.cs" />
+    <Compile Include="ResolveOnlineMusicList.cs" />
+    <Compile Include="SearchMusic.cs" />
+    <Compile Include="SingerInfo.cs" />
+    <Compile Include="TestNetwork.cs" />
+    <Compile Include="XMLHelper.cs" />
+    <Compile Include="XwlrcHandle.cs" />
+    <EmbeddedResource Include="Abut.resx">
+      <DependentUpon>Abut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ctrl\NavControl.resx">
+      <DependentUpon>NavControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ctrl\TrackBar.resx">
+      <DependentUpon>TrackBar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Down.resx">
+      <DependentUpon>Down.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="Shell32">
+      <Guid>{50A7E9B0-70EF-11D1-B75A-00A0C90564FE}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="WMLSS">
+      <Guid>{C21E9CE5-B317-463B-A1B1-B5E36EED59D0}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\toolbar_hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_close_normal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\switch_on_normal.png" />
+    <None Include="Resources\switch_off_clicked.png" />
+    <None Include="Resources\Tomlogo.png" />
+    <None Include="Resources\albe.png" />
+    <None Include="bin\Debug\集成\div.png" />
+    <Content Include="logo.ico" />
+    <None Include="Resources\Tomlogo.jpg" />
+    <None Include="Resources\tian.png" />
+    <None Include="Resources\btn_close_highlight.png" />
+    <None Include="Resources\btn_mini_highlight.png" />
+    <None Include="Resources\btn_mini_normal.png" />
+    <None Include="Resources\bei.png" />
+    <None Include="Resources\backimg.png" />
+    <Content Include="Resources\btn_volume_mini.png" />
+    <Content Include="Resources\common_horz_split.png" />
+    <Content Include="Resources\default_album.png" />
+    <None Include="Resources\div.png" />
+    <None Include="Resources\err.png" />
+    <None Include="Resources\downon.png" />
+    <None Include="Resources\down.png" />
+    <Content Include="Resources\fm_search_btn.png" />
+    <None Include="Resources\mena.png" />
+    <None Include="Resources\le.png" />
+    <None Include="Resources\next.png" />
+    <None Include="Resources\mena2.png" />
+    <None Include="Resources\menu_icon_exit_normal.png" />
+    <None Include="Resources\henniu.gif" />
+    <None Include="Resources\NinePoints.png" />
+    <None Include="Resources\NinePointsSelect.png" />
+    <Content Include="Resources\playbtn-next-enter.png" />
+    <Content Include="Resources\playbtn-next.png" />
+    <Content Include="Resources\playbtn-pause.png" />
+    <Content Include="Resources\playbtn-play.png" />
+    <Content Include="Resources\playbtn-prev-enter.png" />
+    <Content Include="Resources\playbtn-prev.png" />
+    <None Include="Resources\playing_volumn_slide_sound_icon_pressed.png" />
+    <None Include="Resources\Playon.gif" />
+    <Content Include="Resources\play_slider_bg.png" />
+    <Content Include="Resources\play_slider_thumb.png" />
+    <Content Include="Resources\play_slider_value.png" />
+    <None Include="Resources\Skbe.png" />
+    <None Include="Resources\skin.png" />
+    <None Include="Resources\skin_click.png" />
+    <Content Include="Resources\skin_image_ic_list_common_bar_header_search.png" />
+    <None Include="Resources\search_edit.png" />
+    <None Include="Resources\volume_slider_thumb_mini.png" />
+    <None Include="Resources\volume_slider_value.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 和 x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MySkin\MySkin.csproj">
+      <Project>{1462f4bf-5db2-434b-8064-dc7319e70f46}</Project>
+      <Name>MySkin</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

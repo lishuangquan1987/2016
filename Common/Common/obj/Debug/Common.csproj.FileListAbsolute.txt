@@ -1,0 +1,6 @@
+F:\Project2016\Common\Common\obj\Debug\Common.csproj.GenerateResource.Cache
+F:\Project2016\Common\Common\obj\Debug\Common.TrackBar.resources
+F:\Project2016\Common\Common\bin\Debug\Common.dll
+F:\Project2016\Common\Common\bin\Debug\Common.pdb
+F:\Project2016\Common\Common\obj\Debug\Common.dll
+F:\Project2016\Common\Common\obj\Debug\Common.pdb

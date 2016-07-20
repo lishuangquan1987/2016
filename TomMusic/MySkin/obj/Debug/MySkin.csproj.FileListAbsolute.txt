@@ -1,0 +1,5 @@
+F:\Project2016\TomMusic\MySkin\obj\Debug\MySkin.csprojResolveAssemblyReference.cache
+F:\Project2016\TomMusic\MySkin\obj\Debug\MySkin.Main.resources
+F:\Project2016\TomMusic\MySkin\obj\Debug\MySkin.Properties.Resources.resources
+F:\Project2016\TomMusic\MySkin\obj\Debug\MySkin.MainForm.resources
+F:\Project2016\TomMusic\MySkin\obj\Debug\MySkin.csproj.GenerateResource.Cache
