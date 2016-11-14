@@ -1,0 +1,52 @@
+E:\word生成\WordReport\WordReport\bin\Debug\Microsoft.Office.Interop.Word.dll
+E:\word生成\WordReport\WordReport\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\word生成\WordReport\WordReport\bin\Debug\office.dll
+E:\word生成\WordReport\WordReport\obj\Debug\ResolveAssemblyReference.cache
+E:\word生成\WordReport\WordReport\obj\Debug\WordReport.Form1.resources
+E:\word生成\WordReport\WordReport\obj\Debug\WordReport.Properties.Resources.resources
+E:\word生成\WordReport\WordReport\obj\Debug\WordReport.csproj.GenerateResource.Cache
+E:\word生成\WordReport\WordReport\obj\Debug\WordReport.RegisterFrm.resources
+E:\word生成\WordReport\WordReport\obj\Debug\WordReport.RegGenerateFrm.resources
+E:\word生成\WordReport\WordReport\bin\Debug\激活码生成.exe
+E:\word生成\WordReport\WordReport\bin\Debug\激活码生成.pdb
+E:\word生成\WordReport\WordReport\obj\Debug\激活码生成.exe
+E:\word生成\WordReport\WordReport\obj\Debug\激活码生成.pdb
+E:\2013-4-24 软件更新\源程序\WordReport\WordReport\bin\Debug\Microsoft.Office.Interop.Word.dll
+E:\2013-4-24 软件更新\源程序\WordReport\WordReport\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\2013-4-24 软件更新\源程序\WordReport\WordReport\bin\Debug\office.dll
+E:\2013-4-24 软件更新\源程序\WordReport\WordReport\obj\Debug\ResolveAssemblyReference.cache
+E:\2013-4-24 软件更新\源程序\WordReport\WordReport\obj\Debug\WordReport.Form1.resources
+E:\2013-4-24 软件更新\源程序\WordReport\WordReport\obj\Debug\WordReport.Properties.Resources.resources
+E:\2013-4-24 软件更新\源程序\WordReport\WordReport\obj\Debug\WordReport.RegGenerateFrm.resources
+E:\2013-4-24 软件更新\源程序\WordReport\WordReport\obj\Debug\WordReport.RegisterFrm.resources
+E:\2013-4-24 软件更新\源程序\WordReport\WordReport\obj\Debug\WordReport.csproj.GenerateResource.Cache
+E:\2013-4-24 软件更新\源程序\WordReport\WordReport\bin\Debug\注册码生成.exe
+E:\2013-4-24 软件更新\源程序\WordReport\WordReport\bin\Debug\注册码生成.pdb
+E:\2013-4-24 软件更新\源程序\WordReport\WordReport\obj\Debug\注册码生成.exe
+E:\2013-4-24 软件更新\源程序\WordReport\WordReport\obj\Debug\注册码生成.pdb
+E:\我的项目\1123#\源程序\WordReport\WordReport\obj\Debug\注册码生成.exe
+E:\我的项目\1123#\源程序\WordReport\WordReport\obj\Debug\注册码生成.pdb
+E:\我的项目\1123#\源程序\WordReport\WordReport\bin\Debug\注册码生成.exe
+E:\我的项目\1123#\源程序\WordReport\WordReport\bin\Debug\注册码生成.pdb
+E:\我的项目\1123#\源程序\WordReport\WordReport\bin\Debug\Microsoft.Office.Interop.Word.dll
+E:\我的项目\1123#\源程序\WordReport\WordReport\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\我的项目\1123#\源程序\WordReport\WordReport\bin\Debug\office.dll
+E:\我的项目\1123#\源程序\WordReport\WordReport\obj\Debug\ResolveAssemblyReference.cache
+E:\我的项目\1123#\源程序\WordReport\WordReport\obj\Debug\WordReport.Form1.resources
+E:\我的项目\1123#\源程序\WordReport\WordReport\obj\Debug\WordReport.Properties.Resources.resources
+E:\我的项目\1123#\源程序\WordReport\WordReport\obj\Debug\WordReport.RegGenerateFrm.resources
+E:\我的项目\1123#\源程序\WordReport\WordReport\obj\Debug\WordReport.RegisterFrm.resources
+E:\我的项目\1123#\源程序\WordReport\WordReport\obj\Debug\WordReport.csproj.GenerateResource.Cache
+E:\我的项目\1123#\1123# V0.0.0.5 入库\源程序\软件注册\WordReport\obj\Debug\注册码生成.exe
+E:\我的项目\1123#\1123# V0.0.0.5 入库\源程序\软件注册\WordReport\obj\Debug\注册码生成.pdb
+E:\我的项目\1123#\1123# V0.0.0.5 入库\源程序\软件注册\WordReport\bin\Debug\注册码生成.exe
+E:\我的项目\1123#\1123# V0.0.0.5 入库\源程序\软件注册\WordReport\bin\Debug\注册码生成.pdb
+E:\我的项目\1123#\1123# V0.0.0.5 入库\源程序\软件注册\WordReport\bin\Debug\Microsoft.Office.Interop.Word.dll
+E:\我的项目\1123#\1123# V0.0.0.5 入库\源程序\软件注册\WordReport\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\我的项目\1123#\1123# V0.0.0.5 入库\源程序\软件注册\WordReport\bin\Debug\office.dll
+E:\我的项目\1123#\1123# V0.0.0.5 入库\源程序\软件注册\WordReport\obj\Debug\ResolveAssemblyReference.cache
+E:\我的项目\1123#\1123# V0.0.0.5 入库\源程序\软件注册\WordReport\obj\Debug\WordReport.Form1.resources
+E:\我的项目\1123#\1123# V0.0.0.5 入库\源程序\软件注册\WordReport\obj\Debug\WordReport.Properties.Resources.resources
+E:\我的项目\1123#\1123# V0.0.0.5 入库\源程序\软件注册\WordReport\obj\Debug\WordReport.RegGenerateFrm.resources
+E:\我的项目\1123#\1123# V0.0.0.5 入库\源程序\软件注册\WordReport\obj\Debug\WordReport.RegisterFrm.resources
+E:\我的项目\1123#\1123# V0.0.0.5 入库\源程序\软件注册\WordReport\obj\Debug\WordReport.csproj.GenerateResource.Cache

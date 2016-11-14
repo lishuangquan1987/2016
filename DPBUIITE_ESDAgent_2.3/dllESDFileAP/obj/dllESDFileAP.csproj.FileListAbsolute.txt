@@ -1,0 +1,21 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_Dll\dllESDFileAP\dllESDFileAP\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_Dll\dllESDFileAP\dllESDFileAP\bin\Debug\dllESDFileAP.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_Dll\dllESDFileAP\dllESDFileAP\bin\Debug\dllESDFileAP.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_Dll\dllESDFileAP\dllESDFileAP\bin\Debug\dllESDRegister.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_Dll\dllESDFileAP\dllESDFileAP\bin\Debug\dllESDRegister.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_Dll\dllESDFileAP\dllESDFileAP\obj\Debug\dllESDFileAP.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_Dll\dllESDFileAP\dllESDFileAP\obj\Debug\dllESDFileAP.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_Dll\dllESDFileAP\dllESDFileAP\bin\Release\dllESDFileAP.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_Dll\dllESDFileAP\dllESDFileAP\bin\Release\dllESDFileAP.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_Dll\dllESDFileAP\dllESDFileAP\bin\Release\dllESDRegister.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_Dll\dllESDFileAP\dllESDFileAP\bin\Release\dllESDRegister.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_Dll\dllESDFileAP\dllESDFileAP\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_Dll\dllESDFileAP\dllESDFileAP\obj\Release\dllESDFileAP.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_Dll\dllESDFileAP\dllESDFileAP\obj\Release\dllESDFileAP.pdb
+F:\MTT\DPBUIITE_ESDAgent\dllESDFileAP\bin\Release\dllESDFileAP.dll
+F:\MTT\DPBUIITE_ESDAgent\dllESDFileAP\bin\Release\dllESDFileAP.pdb
+F:\MTT\DPBUIITE_ESDAgent\dllESDFileAP\bin\Release\dllESDRegister.dll
+F:\MTT\DPBUIITE_ESDAgent\dllESDFileAP\bin\Release\dllESDRegister.pdb
+F:\MTT\DPBUIITE_ESDAgent\dllESDFileAP\obj\Release\ResolveAssemblyReference.cache
+F:\MTT\DPBUIITE_ESDAgent\dllESDFileAP\obj\Release\dllESDFileAP.dll
+F:\MTT\DPBUIITE_ESDAgent\dllESDFileAP\obj\Release\dllESDFileAP.pdb

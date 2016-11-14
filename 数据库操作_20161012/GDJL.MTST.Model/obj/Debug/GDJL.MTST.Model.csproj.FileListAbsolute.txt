@@ -1,0 +1,15 @@
+E:\Project\数据库操作\GDJL.MTST.Model\bin\Debug\GDJL.MTST.Model.dll
+E:\Project\数据库操作\GDJL.MTST.Model\bin\Debug\GDJL.MTST.Model.pdb
+E:\Project\数据库操作\GDJL.MTST.Model\obj\Debug\GDJL.MTST.Model.dll
+E:\Project\数据库操作\GDJL.MTST.Model\obj\Debug\GDJL.MTST.Model.pdb
+E:\Project2016\数据库操作\GDJL.MTST.Model\bin\Debug\GDJL.MTST.Model.dll
+E:\Project2016\数据库操作\GDJL.MTST.Model\bin\Debug\GDJL.MTST.Model.pdb
+E:\Project2016\数据库操作\GDJL.MTST.Model\obj\Debug\GDJL.MTST.Model.csprojResolveAssemblyReference.cache
+E:\Project2016\数据库操作\GDJL.MTST.Model\obj\Debug\GDJL.MTST.Model.dll
+E:\Project2016\数据库操作\GDJL.MTST.Model\obj\Debug\GDJL.MTST.Model.pdb
+E:\Project\数据库操作\GDJL.MTST.Model\obj\Debug\GDJL.MTST.Model.csprojResolveAssemblyReference.cache
+E:\Project2016\数据库操作_20161012\GDJL.MTST.Model\bin\Debug\GDJL.MTST.Model.dll
+E:\Project2016\数据库操作_20161012\GDJL.MTST.Model\bin\Debug\GDJL.MTST.Model.pdb
+E:\Project2016\数据库操作_20161012\GDJL.MTST.Model\obj\Debug\GDJL.MTST.Model.csprojResolveAssemblyReference.cache
+E:\Project2016\数据库操作_20161012\GDJL.MTST.Model\obj\Debug\GDJL.MTST.Model.dll
+E:\Project2016\数据库操作_20161012\GDJL.MTST.Model\obj\Debug\GDJL.MTST.Model.pdb

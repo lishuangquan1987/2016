@@ -1,0 +1,21 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_Dll\dllESDComp_UART\dllESDComp_UART\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_Dll\dllESDComp_UART\dllESDComp_UART\bin\Debug\dllESDRegister.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_Dll\dllESDComp_UART\dllESDComp_UART\bin\Debug\dllComp_ESDBoard.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_Dll\dllESDComp_UART\dllESDComp_UART\bin\Debug\dllComp_ESDBoard.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_Dll\dllESDComp_UART\dllESDComp_UART\obj\Debug\dllComp_ESDBoard.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_Dll\dllESDComp_UART\dllESDComp_UART\obj\Debug\dllComp_ESDBoard.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_Dll\dllESDComp_UART\dllESDComp_UART\bin\Release\dllComp_ESDBoard.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_Dll\dllESDComp_UART\dllESDComp_UART\bin\Release\dllComp_ESDBoard.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_Dll\dllESDComp_UART\dllESDComp_UART\bin\Release\dllESDRegister.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_Dll\dllESDComp_UART\dllESDComp_UART\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_Dll\dllESDComp_UART\dllESDComp_UART\obj\Release\dllComp_ESDBoard.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_Dll\dllESDComp_UART\dllESDComp_UART\obj\Release\dllESDComp_UART.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_Dll\dllESDComp_UART\dllESDComp_UART\obj\Release\dllComp_ESDBoard.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_Dll\dllESDComp_UART\dllESDComp_UART\obj\Release\dllComp_ESDBoard.pdb
+F:\MTT\DPBUIITE_ESDAgent\dllESDComp_UART\bin\Release\dllComp_ESDBoard.dll
+F:\MTT\DPBUIITE_ESDAgent\dllESDComp_UART\bin\Release\dllComp_ESDBoard.pdb
+F:\MTT\DPBUIITE_ESDAgent\dllESDComp_UART\obj\Release\ResolveAssemblyReference.cache
+F:\MTT\DPBUIITE_ESDAgent\dllESDComp_UART\obj\Release\dllComp_ESDBoard.Properties.Resources.resources
+F:\MTT\DPBUIITE_ESDAgent\dllESDComp_UART\obj\Release\dllESDComp_UART.csproj.GenerateResource.Cache
+F:\MTT\DPBUIITE_ESDAgent\dllESDComp_UART\obj\Release\dllComp_ESDBoard.dll
+F:\MTT\DPBUIITE_ESDAgent\dllESDComp_UART\obj\Release\dllComp_ESDBoard.pdb

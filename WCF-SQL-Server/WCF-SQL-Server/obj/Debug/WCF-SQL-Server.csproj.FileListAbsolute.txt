@@ -1,0 +1,9 @@
+E:\Project2016\WCF-SQL-Server\WCF-SQL-Server\bin\web.config
+E:\Project2016\WCF-SQL-Server\WCF-SQL-Server\bin\web.Debug.config
+E:\Project2016\WCF-SQL-Server\WCF-SQL-Server\bin\web.Release.config
+E:\Project2016\WCF-SQL-Server\WCF-SQL-Server\bin\WCF_SQL_Server.dll.config
+E:\Project2016\WCF-SQL-Server\WCF-SQL-Server\bin\WCF_SQL_Server.dll
+E:\Project2016\WCF-SQL-Server\WCF-SQL-Server\bin\WCF_SQL_Server.pdb
+E:\Project2016\WCF-SQL-Server\WCF-SQL-Server\obj\Debug\WCF_SQL_Server.dll
+E:\Project2016\WCF-SQL-Server\WCF-SQL-Server\obj\Debug\WCF_SQL_Server.pdb
+E:\Project2016\WCF-SQL-Server\WCF-SQL-Server\obj\Debug\WCF-SQL-Server.csprojResolveAssemblyReference.cache

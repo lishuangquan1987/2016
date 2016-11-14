@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DPBUIITE_ESDAgent">
+</Property><Property Name="方案檔" Value="F:\MTT\DPBUIITE_ESDAgent\DPBUIITE_ESDAgent.sln">
+</Property><Property Name="Date" Value="2011年12月23日">
+</Property><Property Name="Time" Value="下午 13:43">
+</Property></Properties><Event ErrorLevel="0" Project="DPBUIITE_ESDAgent" Source="DPBUIITE_ESDAgent\DPBUIITE_ESDAgent.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="DPBUIITE_ESDAgent" Source="DPBUIITE_ESDAgent\DPBUIITE_ESDAgent.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="dllESDComp_UART" Source="dllESDComp_UART\dllESDComp_UART.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="dllESDComp_UART" Source="dllESDComp_UART\dllESDComp_UART.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="dllESDConst" Source="dllESDConst\dllESDConst.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="dllESDConst" Source="dllESDConst\dllESDConst.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="dllESDFileAP" Source="dllESDFileAP\dllESDFileAP.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="dllESDFileAP" Source="dllESDFileAP\dllESDFileAP.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="dllESDRegister" Source="dllESDRegister\dllESDRegister.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="dllESDRegister" Source="dllESDRegister\dllESDRegister.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DPBUIITE_ESDAgent.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="DPBUIITE_ESDAgent.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DPBUIITE_ESDAgent" Source="DPBUIITE_ESDAgent\DPBUIITE_ESDAgent.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event><Event ErrorLevel="0" Project="dllESDComp_UART" Source="dllESDComp_UART\dllESDComp_UART.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event><Event ErrorLevel="0" Project="dllESDConst" Source="dllESDConst\dllESDConst.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event><Event ErrorLevel="0" Project="dllESDFileAP" Source="dllESDFileAP\dllESDFileAP.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event><Event ErrorLevel="0" Project="dllESDRegister" Source="dllESDRegister\dllESDRegister.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

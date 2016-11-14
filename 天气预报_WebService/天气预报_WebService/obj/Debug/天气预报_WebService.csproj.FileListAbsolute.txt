@@ -1,0 +1,12 @@
+E:\Project2016\天气预报_WebService\天气预报_WebService\bin\Debug\天气预报_WebService.exe
+E:\Project2016\天气预报_WebService\天气预报_WebService\bin\Debug\天气预报_WebService.pdb
+E:\Project2016\天气预报_WebService\天气预报_WebService\obj\Debug\天气预报_WebService.csprojResolveAssemblyReference.cache
+E:\Project2016\天气预报_WebService\天气预报_WebService\obj\Debug\天气预报_WebService.Form1.resources
+E:\Project2016\天气预报_WebService\天气预报_WebService\obj\Debug\天气预报_WebService.Properties.Resources.resources
+E:\Project2016\天气预报_WebService\天气预报_WebService\obj\Debug\天气预报_WebService.csproj.GenerateResource.Cache
+E:\Project2016\天气预报_WebService\天气预报_WebService\obj\Debug\天气预报_WebService.exe
+E:\Project2016\天气预报_WebService\天气预报_WebService\obj\Debug\天气预报_WebService.pdb
+E:\Project2016\天气预报_WebService\天气预报_WebService\bin\Debug\Service.dll
+E:\Project2016\天气预报_WebService\天气预报_WebService\bin\Debug\Service.pdb
+E:\Project2016\天气预报_WebService\天气预报_WebService\bin\Debug\app.config
+E:\Project2016\天气预报_WebService\天气预报_WebService\bin\Debug\天气预报_WebService.exe.config

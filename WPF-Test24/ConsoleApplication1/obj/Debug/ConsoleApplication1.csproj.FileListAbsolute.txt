@@ -1,0 +1,6 @@
+E:\WPF Program\WPF-Test24\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\WPF Program\WPF-Test24\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\WPF Program\WPF-Test24\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\WPF Program\WPF-Test24\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\WPF Program\WPF-Test24\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\WPF Program\WPF-Test24\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

@@ -1,0 +1,6 @@
+E:\WPF Program\WcfService\WCF_TEST\bin\WCF_TEST.dll.config
+E:\WPF Program\WcfService\WCF_TEST\bin\WCF_TEST.dll
+E:\WPF Program\WcfService\WCF_TEST\bin\WCF_TEST.pdb
+E:\WPF Program\WcfService\WCF_TEST\obj\Debug\WCF_TEST.csprojResolveAssemblyReference.cache
+E:\WPF Program\WcfService\WCF_TEST\obj\Debug\WCF_TEST.dll
+E:\WPF Program\WcfService\WCF_TEST\obj\Debug\WCF_TEST.pdb

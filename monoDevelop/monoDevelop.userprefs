@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="monoDevelop\monoDevelop.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="monoDevelop\Program.cs">
+    <Files>
+      <File FileName="monoDevelop\Program.cs" Line="8" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="E:\Project2016\monoDevelop\monoDevelop\Program.cs" line="11" column="4" />
+      <Breakpoint file="E:\Project2016\monoDevelop\monoDevelop\Program.cs" line="9" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

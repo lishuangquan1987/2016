@@ -1,0 +1,20 @@
+F:\MTT\DPBUIITE_ESDAgent\dllESDRegister\bin\Debug\dllESDRegister.dll
+F:\MTT\DPBUIITE_ESDAgent\dllESDRegister\bin\Debug\dllESDRegister.pdb
+F:\MTT\DPBUIITE_ESDAgent\dllESDRegister\obj\Debug\ResolveAssemblyReference.cache
+F:\MTT\DPBUIITE_ESDAgent\dllESDRegister\obj\Debug\dllESDRegister.dll
+F:\MTT\DPBUIITE_ESDAgent\dllESDRegister\obj\Debug\dllESDRegister.pdb
+D:\DPBUIITE_ESDAgent\dllESDRegister\bin\Debug\dllESDRegister.dll
+D:\DPBUIITE_ESDAgent\dllESDRegister\bin\Debug\dllESDRegister.pdb
+D:\DPBUIITE_ESDAgent\dllESDRegister\obj\Debug\ResolveAssemblyReference.cache
+D:\DPBUIITE_ESDAgent\dllESDRegister\obj\Debug\dllESDRegister.dll
+D:\DPBUIITE_ESDAgent\dllESDRegister\obj\Debug\dllESDRegister.pdb
+E:\DPBUIITE_ESDAgent_2.3\dllESDRegister\bin\Debug\dllESDRegister.dll
+E:\DPBUIITE_ESDAgent_2.3\dllESDRegister\bin\Debug\dllESDRegister.pdb
+E:\DPBUIITE_ESDAgent_2.3\dllESDRegister\obj\Debug\ResolveAssemblyReference.cache
+E:\DPBUIITE_ESDAgent_2.3\dllESDRegister\obj\Debug\dllESDRegister.dll
+E:\DPBUIITE_ESDAgent_2.3\dllESDRegister\obj\Debug\dllESDRegister.pdb
+F:\c# program\Projects\DPBUIITE_ESDAgent_2.3\dllESDRegister\bin\Debug\dllESDRegister.dll
+F:\c# program\Projects\DPBUIITE_ESDAgent_2.3\dllESDRegister\bin\Debug\dllESDRegister.pdb
+F:\c# program\Projects\DPBUIITE_ESDAgent_2.3\dllESDRegister\obj\Debug\dllESDRegister.csprojResolveAssemblyReference.cache
+F:\c# program\Projects\DPBUIITE_ESDAgent_2.3\dllESDRegister\obj\Debug\dllESDRegister.dll
+F:\c# program\Projects\DPBUIITE_ESDAgent_2.3\dllESDRegister\obj\Debug\dllESDRegister.pdb

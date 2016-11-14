@@ -1,0 +1,6 @@
+E:\Project2016\获取IP\获取IP\bin\Debug\获取IP.exe.config
+E:\Project2016\获取IP\获取IP\bin\Debug\获取IP.exe
+E:\Project2016\获取IP\获取IP\bin\Debug\获取IP.pdb
+E:\Project2016\获取IP\获取IP\obj\Debug\获取IP.csprojResolveAssemblyReference.cache
+E:\Project2016\获取IP\获取IP\obj\Debug\获取IP.exe
+E:\Project2016\获取IP\获取IP\obj\Debug\获取IP.pdb

@@ -1,0 +1,19 @@
+﻿<Window x:Class="FTPClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TreeView SelectedItemChanged="TreeView_SelectedItemChanged" ItemsSource="{Binding LstFolder}" HorizontalAlignment="Left" Height="267" Margin="29,22,0,0" VerticalAlignment="Top" Width="454">
+            <TreeView.ItemTemplate>
+                <HierarchicalDataTemplate ItemsSource="{Binding Children}">
+                    <StackPanel Orientation="Horizontal">
+                        <Image Height="16" Width="16" Source="{Binding IconPath}"></Image>
+                        <TextBlock Text="{Binding ShortName}"></TextBlock>
+                    </StackPanel>
+                </HierarchicalDataTemplate>
+                
+            </TreeView.ItemTemplate>
+        </TreeView>
+
+    </Grid>
+</Window>

@@ -1,0 +1,21 @@
+﻿<Window x:Class="SQL_Operation.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525" WindowStyle="None" AllowsTransparency="True" MouseDown="Window_MouseDown" Background="{x:Null}" >
+    <Grid Background="Transparent" Opacity="0.5">
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+        </Grid.RowDefinitions>
+        <ListView Name="lstView" Grid.Row="0" ItemsSource="{Binding}"  Background="White" Opacity="0.5">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="ID" Width="50" DisplayMemberBinding="{Binding ID}"></GridViewColumn>
+                    <GridViewColumn Header="Name" Width="50" DisplayMemberBinding="{Binding Name}"></GridViewColumn>
+                    <GridViewColumn Header="Age" Width="50" DisplayMemberBinding="{Binding Age}"></GridViewColumn>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Button Name="btn" Grid.Row="1" FontSize="18" FontFamily="times new roman" Click="btn_Click">GetData</Button>
+    </Grid>
+</Window>

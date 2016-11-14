@@ -1,0 +1,12 @@
+E:\Project2016\Nhibernate_数据库中插入图片\Nhibernate_数据库中插入图片\bin\Debug\hibernate.cfg.xml
+E:\Project2016\Nhibernate_数据库中插入图片\Nhibernate_数据库中插入图片\bin\Debug\Nhibernate_数据库中插入图片.exe
+E:\Project2016\Nhibernate_数据库中插入图片\Nhibernate_数据库中插入图片\bin\Debug\Nhibernate_数据库中插入图片.pdb
+E:\Project2016\Nhibernate_数据库中插入图片\Nhibernate_数据库中插入图片\bin\Debug\Iesi.Collections.dll
+E:\Project2016\Nhibernate_数据库中插入图片\Nhibernate_数据库中插入图片\bin\Debug\NHibernate.dll
+E:\Project2016\Nhibernate_数据库中插入图片\Nhibernate_数据库中插入图片\bin\Debug\NHibernate.Linq.dll
+E:\Project2016\Nhibernate_数据库中插入图片\Nhibernate_数据库中插入图片\obj\Debug\Nhibernate_数据库中插入图片.csprojResolveAssemblyReference.cache
+E:\Project2016\Nhibernate_数据库中插入图片\Nhibernate_数据库中插入图片\obj\Debug\Nhibernate_数据库中插入图片.Form1.resources
+E:\Project2016\Nhibernate_数据库中插入图片\Nhibernate_数据库中插入图片\obj\Debug\Nhibernate_数据库中插入图片.Properties.Resources.resources
+E:\Project2016\Nhibernate_数据库中插入图片\Nhibernate_数据库中插入图片\obj\Debug\Nhibernate_数据库中插入图片.csproj.GenerateResource.Cache
+E:\Project2016\Nhibernate_数据库中插入图片\Nhibernate_数据库中插入图片\obj\Debug\Nhibernate_数据库中插入图片.exe
+E:\Project2016\Nhibernate_数据库中插入图片\Nhibernate_数据库中插入图片\obj\Debug\Nhibernate_数据库中插入图片.pdb

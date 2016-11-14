@@ -1,0 +1,22 @@
+﻿<Window x:Class="WPF_Resource.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Window.Resources>
+        <ImageBrush x:Key="bmp" TileMode="Tile" ImageSource="Y$3A0~[JYI{)I3Z4PCUUEB9.jpg"></ImageBrush>
+        <Image x:Key="image" Source="Y$3A0~[JYI{)I3Z4PCUUEB9.jpg"></Image>
+    </Window.Resources>
+    <Grid>
+        <StackPanel  Margin="5"  Background="{StaticResource bmp}">
+            <Button Margin="10">
+                111111
+                <Button.Background>
+                    <StaticResource ResourceKey="bmp"></StaticResource>
+                </Button.Background>
+            </Button>
+        </StackPanel>
+        
+
+
+    </Grid>
+</Window>

@@ -1,0 +1,10 @@
+E:\Project\FTP示例\FTPModel\bin\Debug\FTPModel.dll
+E:\Project\FTP示例\FTPModel\bin\Debug\FTPModel.pdb
+E:\Project\FTP示例\FTPModel\obj\Debug\FTPModel.csprojResolveAssemblyReference.cache
+E:\Project\FTP示例\FTPModel\obj\Debug\FTPModel.dll
+E:\Project\FTP示例\FTPModel\obj\Debug\FTPModel.pdb
+D:\Project\Project2016\FTP示例\FTPModel\bin\Debug\FTPModel.dll
+D:\Project\Project2016\FTP示例\FTPModel\bin\Debug\FTPModel.pdb
+D:\Project\Project2016\FTP示例\FTPModel\obj\Debug\FTPModel.csprojResolveAssemblyReference.cache
+D:\Project\Project2016\FTP示例\FTPModel\obj\Debug\FTPModel.dll
+D:\Project\Project2016\FTP示例\FTPModel\obj\Debug\FTPModel.pdb

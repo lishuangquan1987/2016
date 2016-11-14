@@ -1,0 +1,23 @@
+﻿<Window x:Class="大文件的拷贝.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <StackPanel Orientation="Vertical">
+        <StackPanel Orientation="Horizontal" >
+            <Label>要拷贝的文件：</Label>
+            <TextBox Width="400" Name="tb_sourcePath" Text="{Binding sourcePath}"></TextBox>
+            <Button Width="20" HorizontalContentAlignment="Center" VerticalContentAlignment="Top" Background="{Binding ElementName=sourcePath, Path=Background}" Click="Button_Click">...</Button>
+        </StackPanel>
+        <StackPanel Orientation="Vertical">
+            <StackPanel Orientation="Horizontal" >
+                <Label>存放目录：</Label>
+                <TextBox Width="400" Name="tb_destiDir" Text="{Binding destiPath}"></TextBox>
+                <Button Width="20" HorizontalContentAlignment="Center" VerticalContentAlignment="Top" Background="{Binding ElementName=sourcePath, Path=Background}" Click="Button_Click_1">...</Button>
+            </StackPanel>
+        </StackPanel>
+        <Button Width="100" Height="43" Margin="208,0,209,0" Name="btn_Start" Click="btn_Start_Click">开始</Button>
+        <ProgressBar Height="20" Width="300" Name="processBar"></ProgressBar>
+    </StackPanel>
+   
+    
+</Window>

@@ -1,0 +1,22 @@
+﻿<Window x:Class="LoadingCircleTest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:WindowsFormHost="clr-namespace:System.Windows.Automation.Peers;assembly=WindowsFormsIntegration"
+        xmlns:LoadingCircle="clr-namespace:Common;assembly=Common"
+        xmlns:Drawing="clr-namespace:System.Drawing;assembly=System.Drawing"
+        Title="MainWindow" Height="175" Width="537.069" WindowStyle="None" MouseDown="Window_MouseDown" Topmost="True" Background="White" Opacity="0.8">
+    <Grid Margin="0" >
+        
+        <Grid.RowDefinitions >
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Label Content="正在加载，请稍后..." HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Name="lbMsg" Foreground="Blue" ></Label>
+        <WindowsFormsHost Grid.Row="1" Background="White" Name="host">
+            <LoadingCircle:LoadingCircle x:Name="loadingCircle"  Active="True" InnerCircleRadius="12" OuterCircleRadius="20" RotationSpeed="160" SpokeThickness="5">
+                
+            </LoadingCircle:LoadingCircle>
+        </WindowsFormsHost>
+
+    </Grid>
+</Window>

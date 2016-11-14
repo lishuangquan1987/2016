@@ -1,0 +1,4 @@
+E:\Project2016\WebService\WebService\bin\Debug\WebService.exe
+E:\Project2016\WebService\WebService\bin\Debug\WebService.pdb
+E:\Project2016\WebService\WebService\obj\Debug\WebService.exe
+E:\Project2016\WebService\WebService\obj\Debug\WebService.pdb

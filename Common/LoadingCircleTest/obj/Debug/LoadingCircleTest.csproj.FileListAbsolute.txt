@@ -1,0 +1,16 @@
+E:\Project2016\Common\LoadingCircleTest\bin\Debug\Control\LoadingCircle.cs
+E:\Project2016\Common\LoadingCircleTest\bin\Debug\LoadingCircleTest.exe.config
+E:\Project2016\Common\LoadingCircleTest\bin\Debug\LoadingCircleTest.exe
+E:\Project2016\Common\LoadingCircleTest\bin\Debug\LoadingCircleTest.pdb
+E:\Project2016\Common\LoadingCircleTest\bin\Debug\Common.dll
+E:\Project2016\Common\LoadingCircleTest\bin\Debug\Common.pdb
+E:\Project2016\Common\LoadingCircleTest\obj\Debug\LoadingCircleTest.csprojResolveAssemblyReference.cache
+E:\Project2016\Common\LoadingCircleTest\obj\Debug\MainWindow.baml
+E:\Project2016\Common\LoadingCircleTest\obj\Debug\MainWindow.g.cs
+E:\Project2016\Common\LoadingCircleTest\obj\Debug\App.g.cs
+E:\Project2016\Common\LoadingCircleTest\obj\Debug\LoadingCircleTest_MarkupCompile.cache
+E:\Project2016\Common\LoadingCircleTest\obj\Debug\LoadingCircleTest.g.resources
+E:\Project2016\Common\LoadingCircleTest\obj\Debug\LoadingCircleTest.Properties.Resources.resources
+E:\Project2016\Common\LoadingCircleTest\obj\Debug\LoadingCircleTest.csproj.GenerateResource.Cache
+E:\Project2016\Common\LoadingCircleTest\obj\Debug\LoadingCircleTest.exe
+E:\Project2016\Common\LoadingCircleTest\obj\Debug\LoadingCircleTest.pdb

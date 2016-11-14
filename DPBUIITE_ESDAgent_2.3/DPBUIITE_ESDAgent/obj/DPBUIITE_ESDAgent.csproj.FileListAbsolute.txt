@@ -1,0 +1,48 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_ESDAgent\DPBUIITE_ESDAgent\bin\Debug\DPBUIITE_ESDAgent.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_ESDAgent\DPBUIITE_ESDAgent\bin\Debug\DPBUIITE_ESDAgent.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_ESDAgent\DPBUIITE_ESDAgent\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_ESDAgent\DPBUIITE_ESDAgent\obj\Debug\DPBUIITE_ESDAgent.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_ESDAgent\DPBUIITE_ESDAgent\obj\Debug\DPBUIITE_ESDAgent.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_ESDAgent\DPBUIITE_ESDAgent\obj\Debug\DPBUIITE_ESDAgent.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_ESDAgent\DPBUIITE_ESDAgent\obj\Debug\DPBUIITE_ESDAgent.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_ESDAgent\DPBUIITE_ESDAgent\obj\Debug\DPBUIITE_ESDAgent.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_ESDAgent\DPBUIITE_ESDAgent\bin\Debug\dllComp_ESDBoard.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_ESDAgent\DPBUIITE_ESDAgent\bin\Debug\dllESDFileAP.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_ESDAgent\DPBUIITE_ESDAgent\bin\Debug\dllESDRegister.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_ESDAgent\DPBUIITE_ESDAgent\bin\Debug\dllComp_ESDBoard.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_ESDAgent\DPBUIITE_ESDAgent\bin\Debug\dllESDRegister.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_ESDAgent\DPBUIITE_ESDAgent\bin\Debug\dllESDFileAP.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_ESDAgent\DPBUIITE_ESDAgent\obj\Debug\DPBUIITE_ESDAgent.UartSetting.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_ESDAgent\DPBUIITE_ESDAgent\bin\Release\DPBUIITE_ESDAgent.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_ESDAgent\DPBUIITE_ESDAgent\bin\Release\DPBUIITE_ESDAgent.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_ESDAgent\DPBUIITE_ESDAgent\bin\Release\dllComp_ESDBoard.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_ESDAgent\DPBUIITE_ESDAgent\bin\Release\dllESDFileAP.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_ESDAgent\DPBUIITE_ESDAgent\bin\Release\dllESDRegister.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_ESDAgent\DPBUIITE_ESDAgent\bin\Release\dllComp_ESDBoard.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_ESDAgent\DPBUIITE_ESDAgent\bin\Release\dllESDRegister.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_ESDAgent\DPBUIITE_ESDAgent\bin\Release\dllESDFileAP.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_ESDAgent\DPBUIITE_ESDAgent\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_ESDAgent\DPBUIITE_ESDAgent\obj\Release\DPBUIITE_ESDAgent.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_ESDAgent\DPBUIITE_ESDAgent\obj\Release\DPBUIITE_ESDAgent.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_ESDAgent\DPBUIITE_ESDAgent\obj\Release\DPBUIITE_ESDAgent.UartSetting.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_ESDAgent\DPBUIITE_ESDAgent\obj\Release\DPBUIITE_ESDAgent.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_ESDAgent\DPBUIITE_ESDAgent\obj\Release\DPBUIITE_ESDAgent.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_ESDAgent\DPBUIITE_ESDAgent\obj\Release\DPBUIITE_ESDAgent.pdb
+F:\MTT\DPBUIITE_ESDAgent\DPBUIITE_ESDAgent\obj\Release\DPBUIITE_ESDAgent.exe
+F:\MTT\DPBUIITE_ESDAgent\DPBUIITE_ESDAgent\obj\Release\DPBUIITE_ESDAgent.pdb
+F:\MTT\DPBUIITE_ESDAgent\DPBUIITE_ESDAgent\bin\Release\DPBUIITE_ESDAgent.exe
+F:\MTT\DPBUIITE_ESDAgent\DPBUIITE_ESDAgent\bin\Release\DPBUIITE_ESDAgent.pdb
+F:\MTT\DPBUIITE_ESDAgent\DPBUIITE_ESDAgent\bin\Release\Const.dll
+F:\MTT\DPBUIITE_ESDAgent\DPBUIITE_ESDAgent\bin\Release\dllComp_ESDBoard.dll
+F:\MTT\DPBUIITE_ESDAgent\DPBUIITE_ESDAgent\bin\Release\dllESDFileAP.dll
+F:\MTT\DPBUIITE_ESDAgent\DPBUIITE_ESDAgent\bin\Release\dllESDRegister.dll
+F:\MTT\DPBUIITE_ESDAgent\DPBUIITE_ESDAgent\bin\Release\dllComp_ESDBoard.pdb
+F:\MTT\DPBUIITE_ESDAgent\DPBUIITE_ESDAgent\bin\Release\dllESDRegister.pdb
+F:\MTT\DPBUIITE_ESDAgent\DPBUIITE_ESDAgent\bin\Release\Const.pdb
+F:\MTT\DPBUIITE_ESDAgent\DPBUIITE_ESDAgent\bin\Release\dllESDFileAP.pdb
+F:\MTT\DPBUIITE_ESDAgent\DPBUIITE_ESDAgent\obj\Release\ResolveAssemblyReference.cache
+F:\MTT\DPBUIITE_ESDAgent\DPBUIITE_ESDAgent\obj\Release\DPBUIITE_ESDAgent.Form1.resources
+F:\MTT\DPBUIITE_ESDAgent\DPBUIITE_ESDAgent\obj\Release\DPBUIITE_ESDAgent.Properties.Resources.resources
+F:\MTT\DPBUIITE_ESDAgent\DPBUIITE_ESDAgent\obj\Release\DPBUIITE_ESDAgent.UartSetting.resources
+F:\MTT\DPBUIITE_ESDAgent\DPBUIITE_ESDAgent\obj\Release\DPBUIITE_ESDAgent.csproj.GenerateResource.Cache
+F:\MTT\DPBUIITE_ESDAgent\DPBUIITE_ESDAgent\obj\Release\DPBUIITE_ESDAgent.FrmFind.resources

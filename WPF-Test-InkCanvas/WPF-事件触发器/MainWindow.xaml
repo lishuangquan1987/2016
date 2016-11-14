@@ -1,0 +1,41 @@
+﻿<Window x:Class="WPF_事件触发器.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525" Name="window">
+    <Window.Resources>
+        <Style x:Key="mystyle">
+            <Style.Triggers>
+                <!--Trigger是属性触发器，属性值一般为bool-->
+                <!--EventTrigger是事件触发器-->
+                <EventTrigger RoutedEvent="Mouse.MouseEnter">
+                    <EventTrigger.Actions>
+                        <BeginStoryboard>
+                            <Storyboard>
+                                <DoubleAnimation Duration="0:0:1" Storyboard.TargetProperty="Height" To="30"></DoubleAnimation>
+                               
+                            </Storyboard>
+                        </BeginStoryboard>
+                    </EventTrigger.Actions>
+                </EventTrigger>
+                <!--事件回滚-->
+                <EventTrigger RoutedEvent="Mouse.MouseLeave">
+                    <EventTrigger.Actions>
+                        <BeginStoryboard>
+                            <Storyboard>
+                                <DoubleAnimation Duration="0:0:1" Storyboard.TargetProperty="Height" ></DoubleAnimation>
+                                
+                            </Storyboard>
+                        </BeginStoryboard>
+                    </EventTrigger.Actions>
+                </EventTrigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+    <Grid>
+
+        <StackPanel Name="stackpanel" Margin="10" Style="{StaticResource mystyle}" Height="{Binding ElementName=window, Path=Height}" Background="#FFE61515" OpacityMask="#FFCD8383" VerticalAlignment="Bottom">
+            <Button   Content="button1" Margin="5,50" Height="100" Click="Button_Click"/>
+            <Label Content="{Binding ElementName=stackpanel,Path=Height}" Opacity="0.5"></Label>
+        </StackPanel>
+    </Grid>
+</Window>

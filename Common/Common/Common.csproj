@@ -43,7 +43,18 @@
   <ItemGroup>
     <Compile Include="CalculationHelper.cs" />
     <Compile Include="Class1.cs" />
+    <Compile Include="Control\RollingText.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Control\RollingText.designer.cs">
+      <DependentUpon>RollingText.cs</DependentUpon>
+    </Compile>
     <Compile Include="GraphicsPathHelper.cs" />
+    <Compile Include="Control\LoadingCircle.cs">
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="HttpRequest.cs" />
     <Compile Include="Notification.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Control\TrackBar.cs">
@@ -55,6 +66,9 @@
     <Compile Include="User32DllHelper.cs" />
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="Control\RollingText.resx">
+      <DependentUpon>RollingText.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Control\TrackBar.resx">
       <DependentUpon>TrackBar.cs</DependentUpon>
     </EmbeddedResource>

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "大文件的拷贝", "大文件的拷贝\大文件的拷贝.csproj", "{DFEDE155-3B2E-479E-B27A-C912F17EC04F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "文件夹复制", "文件夹复制\文件夹复制.csproj", "{6FC406E3-65B5-475C-A0EC-DB1CE60631CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{C8D97536-B926-4380-A9BB-23D1945AD022}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFEDE155-3B2E-479E-B27A-C912F17EC04F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFEDE155-3B2E-479E-B27A-C912F17EC04F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFEDE155-3B2E-479E-B27A-C912F17EC04F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFEDE155-3B2E-479E-B27A-C912F17EC04F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FC406E3-65B5-475C-A0EC-DB1CE60631CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FC406E3-65B5-475C-A0EC-DB1CE60631CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FC406E3-65B5-475C-A0EC-DB1CE60631CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FC406E3-65B5-475C-A0EC-DB1CE60631CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8D97536-B926-4380-A9BB-23D1945AD022}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8D97536-B926-4380-A9BB-23D1945AD022}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8D97536-B926-4380-A9BB-23D1945AD022}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8D97536-B926-4380-A9BB-23D1945AD022}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

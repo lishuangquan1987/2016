@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "天气预报_WebService", "天气预报_WebService\天气预报_WebService.csproj", "{CEFF0D23-2511-462B-9219-024E25BF605D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{8CE9A1CC-5C28-4325-94DB-FF50A6125A80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{F45BD97A-D7EC-4A63-A4AA-F745B4CBA9D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEFF0D23-2511-462B-9219-024E25BF605D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEFF0D23-2511-462B-9219-024E25BF605D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEFF0D23-2511-462B-9219-024E25BF605D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEFF0D23-2511-462B-9219-024E25BF605D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CE9A1CC-5C28-4325-94DB-FF50A6125A80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CE9A1CC-5C28-4325-94DB-FF50A6125A80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CE9A1CC-5C28-4325-94DB-FF50A6125A80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CE9A1CC-5C28-4325-94DB-FF50A6125A80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F45BD97A-D7EC-4A63-A4AA-F745B4CBA9D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F45BD97A-D7EC-4A63-A4AA-F745B4CBA9D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F45BD97A-D7EC-4A63-A4AA-F745B4CBA9D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F45BD97A-D7EC-4A63-A4AA-F745B4CBA9D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

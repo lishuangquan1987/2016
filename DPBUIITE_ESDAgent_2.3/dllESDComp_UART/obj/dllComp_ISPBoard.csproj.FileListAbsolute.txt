@@ -1,0 +1,41 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_FT_dll\dllComp_ISPBoard\dllComp_ISPBoard\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_FT_dll\dllComp_ISPBoard\dllComp_ISPBoard\bin\Debug\Comp_ISPBoard.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_FT_dll\dllComp_ISPBoard\dllComp_ISPBoard\bin\Debug\Comp_ISPBoard.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_FT_dll\dllComp_ISPBoard\dllComp_ISPBoard\obj\Debug\Comp_ISPBoard.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_FT_dll\dllComp_ISPBoard\dllComp_ISPBoard\obj\Debug\Comp_ISPBoard.pdb
+C:\Documents and Settings\201003L40\桌面\Wistron程式\DPBUIITE_FT_20101102\DPBUIITE_FT\DPBUIITE_FT_dll\dllComp_ISPBoard\dllComp_ISPBoard\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\201003L40\桌面\Wistron程式\DPBUIITE_FT_20101102\DPBUIITE_FT\DPBUIITE_FT_dll\dllComp_ISPBoard\dllComp_ISPBoard\obj\Debug\Comp_ISPBoard.dll
+C:\Documents and Settings\201003L40\桌面\Wistron程式\DPBUIITE_FT_20101102\DPBUIITE_FT\DPBUIITE_FT_dll\dllComp_ISPBoard\dllComp_ISPBoard\bin\Debug\Comp_ISPBoard.dll
+C:\Documents and Settings\201003L40\桌面\Wistron程式\DPBUIITE_FT_20101102\DPBUIITE_FT\DPBUIITE_FT_dll\dllComp_ISPBoard\dllComp_ISPBoard\bin\Debug\Comp_ISPBoard.pdb
+C:\Documents and Settings\201003L40\桌面\Wistron程式\DPBUIITE_FT_20101102\DPBUIITE_FT\DPBUIITE_FT_dll\dllComp_ISPBoard\dllComp_ISPBoard\bin\Debug\MessengerBox.dll
+C:\Documents and Settings\201003L40\桌面\Wistron程式\DPBUIITE_FT_20101102\DPBUIITE_FT\DPBUIITE_FT_dll\dllComp_ISPBoard\dllComp_ISPBoard\bin\Debug\Register.dll
+C:\Documents and Settings\201003L40\桌面\Wistron程式\DPBUIITE_FT_20101102\DPBUIITE_FT\DPBUIITE_FT_dll\dllComp_ISPBoard\dllComp_ISPBoard\obj\Debug\Comp_ISPBoard.pdb
+C:\Documents and Settings\201003L40\桌面\Wistron程式\DPBUIITE_FT_20101102\DPBUIITE_FT\DPBUIITE_FT\DPBUIITE_FT_dll\dllComp_ISPBoard\dllComp_ISPBoard\bin\Debug\Comp_ISPBoard.dll
+C:\Documents and Settings\201003L40\桌面\Wistron程式\DPBUIITE_FT_20101102\DPBUIITE_FT\DPBUIITE_FT\DPBUIITE_FT_dll\dllComp_ISPBoard\dllComp_ISPBoard\bin\Debug\Comp_ISPBoard.pdb
+C:\Documents and Settings\201003L40\桌面\Wistron程式\DPBUIITE_FT_20101102\DPBUIITE_FT\DPBUIITE_FT\DPBUIITE_FT_dll\dllComp_ISPBoard\dllComp_ISPBoard\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\201003L40\桌面\Wistron程式\DPBUIITE_FT_20101102\DPBUIITE_FT\DPBUIITE_FT\DPBUIITE_FT_dll\dllComp_ISPBoard\dllComp_ISPBoard\obj\Debug\Comp_ISPBoard.dll
+C:\Documents and Settings\201003L40\桌面\Wistron程式\DPBUIITE_FT_20101102\DPBUIITE_FT\DPBUIITE_FT\DPBUIITE_FT_dll\dllComp_ISPBoard\dllComp_ISPBoard\obj\Debug\Comp_ISPBoard.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_FT_dll\dllComp_ISPBoard\dllComp_ISPBoard\bin\Debug\Const.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_FT_dll\dllComp_ISPBoard\dllComp_ISPBoard\bin\Debug\MessengerBox.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_FT_dll\dllComp_ISPBoard\dllComp_ISPBoard\bin\Debug\Register.dll
+C:\Documents and Settings\201003L40\桌面\Wistron程式\DPBUIITE_FT_20101116\DPBUIITE_FT\DPBUIITE_FT_dll\dllComp_ISPBoard\dllComp_ISPBoard\bin\Debug\Comp_ISPBoard.dll
+C:\Documents and Settings\201003L40\桌面\Wistron程式\DPBUIITE_FT_20101116\DPBUIITE_FT\DPBUIITE_FT_dll\dllComp_ISPBoard\dllComp_ISPBoard\bin\Debug\Comp_ISPBoard.pdb
+C:\Documents and Settings\201003L40\桌面\Wistron程式\DPBUIITE_FT_20101116\DPBUIITE_FT\DPBUIITE_FT_dll\dllComp_ISPBoard\dllComp_ISPBoard\bin\Debug\Const.dll
+C:\Documents and Settings\201003L40\桌面\Wistron程式\DPBUIITE_FT_20101116\DPBUIITE_FT\DPBUIITE_FT_dll\dllComp_ISPBoard\dllComp_ISPBoard\bin\Debug\MessengerBox.dll
+C:\Documents and Settings\201003L40\桌面\Wistron程式\DPBUIITE_FT_20101116\DPBUIITE_FT\DPBUIITE_FT_dll\dllComp_ISPBoard\dllComp_ISPBoard\bin\Debug\Register.dll
+C:\Documents and Settings\201003L40\桌面\Wistron程式\DPBUIITE_FT_20101116\DPBUIITE_FT\DPBUIITE_FT_dll\dllComp_ISPBoard\dllComp_ISPBoard\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\201003L40\桌面\Wistron程式\DPBUIITE_FT_20101116\DPBUIITE_FT\DPBUIITE_FT_dll\dllComp_ISPBoard\dllComp_ISPBoard\obj\Debug\Comp_ISPBoard.dll
+C:\Documents and Settings\201003L40\桌面\Wistron程式\DPBUIITE_FT_20101116\DPBUIITE_FT\DPBUIITE_FT_dll\dllComp_ISPBoard\dllComp_ISPBoard\obj\Debug\Comp_ISPBoard.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_FT\DPBUIITE_FT_dll\dllComp_ISPBoard\dllComp_ISPBoard\bin\Debug\Comp_ISPBoard.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_FT\DPBUIITE_FT_dll\dllComp_ISPBoard\dllComp_ISPBoard\bin\Debug\Comp_ISPBoard.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_FT\DPBUIITE_FT_dll\dllComp_ISPBoard\dllComp_ISPBoard\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_FT\DPBUIITE_FT_dll\dllComp_ISPBoard\dllComp_ISPBoard\obj\Debug\Comp_ISPBoard.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_FT\DPBUIITE_FT_dll\dllComp_ISPBoard\dllComp_ISPBoard\obj\Debug\Comp_ISPBoard.pdb
+C:\Documents and Settings\201003L40\桌面\Wistron程式\DPBUIITE_FT20101210_a\DPBUIITE_FT\DPBUIITE_FT_dll\dllComp_ISPBoard\dllComp_ISPBoard\bin\Debug\Comp_ISPBoard.dll
+C:\Documents and Settings\201003L40\桌面\Wistron程式\DPBUIITE_FT20101210_a\DPBUIITE_FT\DPBUIITE_FT_dll\dllComp_ISPBoard\dllComp_ISPBoard\bin\Debug\Comp_ISPBoard.pdb
+C:\Documents and Settings\201003L40\桌面\Wistron程式\DPBUIITE_FT20101210_a\DPBUIITE_FT\DPBUIITE_FT_dll\dllComp_ISPBoard\dllComp_ISPBoard\bin\Debug\Const.dll
+C:\Documents and Settings\201003L40\桌面\Wistron程式\DPBUIITE_FT20101210_a\DPBUIITE_FT\DPBUIITE_FT_dll\dllComp_ISPBoard\dllComp_ISPBoard\bin\Debug\MessengerBox.dll
+C:\Documents and Settings\201003L40\桌面\Wistron程式\DPBUIITE_FT20101210_a\DPBUIITE_FT\DPBUIITE_FT_dll\dllComp_ISPBoard\dllComp_ISPBoard\bin\Debug\Register.dll
+C:\Documents and Settings\201003L40\桌面\Wistron程式\DPBUIITE_FT20101210_a\DPBUIITE_FT\DPBUIITE_FT_dll\dllComp_ISPBoard\dllComp_ISPBoard\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\201003L40\桌面\Wistron程式\DPBUIITE_FT20101210_a\DPBUIITE_FT\DPBUIITE_FT_dll\dllComp_ISPBoard\dllComp_ISPBoard\obj\Debug\Comp_ISPBoard.dll
+C:\Documents and Settings\201003L40\桌面\Wistron程式\DPBUIITE_FT20101210_a\DPBUIITE_FT\DPBUIITE_FT_dll\dllComp_ISPBoard\dllComp_ISPBoard\obj\Debug\Comp_ISPBoard.pdb

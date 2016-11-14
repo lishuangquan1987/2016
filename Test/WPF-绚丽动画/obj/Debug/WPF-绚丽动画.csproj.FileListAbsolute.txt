@@ -1,0 +1,16 @@
+E:\Project2016\Test\WPF-绚丽动画\bin\Debug\WPF-绚丽动画.exe
+E:\Project2016\Test\WPF-绚丽动画\bin\Debug\WPF-绚丽动画.pdb
+E:\Project2016\Test\WPF-绚丽动画\obj\Debug\MainWindow.baml
+E:\Project2016\Test\WPF-绚丽动画\obj\Debug\MainWindow.g.cs
+E:\Project2016\Test\WPF-绚丽动画\obj\Debug\App.g.cs
+E:\Project2016\Test\WPF-绚丽动画\obj\Debug\WPF-绚丽动画_MarkupCompile.cache
+E:\Project2016\Test\WPF-绚丽动画\obj\Debug\WPF-绚丽动画.g.resources
+E:\Project2016\Test\WPF-绚丽动画\obj\Debug\WPF_绚丽动画.Properties.Resources.resources
+E:\Project2016\Test\WPF-绚丽动画\obj\Debug\WPF-绚丽动画.csproj.GenerateResource.Cache
+E:\Project2016\Test\WPF-绚丽动画\obj\Debug\WPF-绚丽动画.exe
+E:\Project2016\Test\WPF-绚丽动画\obj\Debug\WPF-绚丽动画.pdb
+E:\Project2016\Test\WPF-绚丽动画\bin\Debug\animal_bear_panda_128px_4710_easyicon.net.png
+E:\Project2016\Test\WPF-绚丽动画\obj\Debug\WPF-绚丽动画_Content.g.cs
+E:\Project2016\Test\WPF-绚丽动画\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Project2016\Test\WPF-绚丽动画\obj\Debug\WPF-绚丽动画_MarkupCompile.lref
+E:\Project2016\Test\WPF-绚丽动画\obj\Debug\WPF-绚丽动画.csprojResolveAssemblyReference.cache

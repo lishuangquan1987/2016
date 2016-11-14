@@ -1,0 +1,23 @@
+﻿<Window x:Class="WPF_Test_InkCanvas.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525" Loaded="Window_Loaded">
+    <Grid>
+        <Grid.RowDefinitions >
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition>
+
+            </RowDefinition>
+        </Grid.RowDefinitions>
+        <InkCanvas EditingMode="Select" Grid.Row="1" Name="inkCanvas">
+            <InkCanvas.Background>
+                <ImageBrush/>
+            </InkCanvas.Background>
+            <Button Name="button" InkCanvas.Left="100" InkCanvas.Top="100" Margin="35,-27,-194,-25" Content="保存" Click="button_Click"></Button>
+        </InkCanvas>
+
+        <ComboBox Name="combox" Grid.Row="0"  Margin="50,0,50,0" SelectionChanged="combox_Selected"></ComboBox>
+
+
+    </Grid>
+</Window>

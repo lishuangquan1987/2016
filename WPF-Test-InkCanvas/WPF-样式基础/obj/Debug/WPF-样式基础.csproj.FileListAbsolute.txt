@@ -1,0 +1,12 @@
+E:\WPF Program\WPF-Test-InkCanvas\WPF-样式基础\bin\Debug\WPF-样式基础.exe.config
+E:\WPF Program\WPF-Test-InkCanvas\WPF-样式基础\bin\Debug\WPF-样式基础.exe
+E:\WPF Program\WPF-Test-InkCanvas\WPF-样式基础\bin\Debug\WPF-样式基础.pdb
+E:\WPF Program\WPF-Test-InkCanvas\WPF-样式基础\obj\Debug\MainWindow.baml
+E:\WPF Program\WPF-Test-InkCanvas\WPF-样式基础\obj\Debug\MainWindow.g.cs
+E:\WPF Program\WPF-Test-InkCanvas\WPF-样式基础\obj\Debug\App.g.cs
+E:\WPF Program\WPF-Test-InkCanvas\WPF-样式基础\obj\Debug\WPF-样式基础_MarkupCompile.cache
+E:\WPF Program\WPF-Test-InkCanvas\WPF-样式基础\obj\Debug\WPF-样式基础.g.resources
+E:\WPF Program\WPF-Test-InkCanvas\WPF-样式基础\obj\Debug\WPF_样式基础.Properties.Resources.resources
+E:\WPF Program\WPF-Test-InkCanvas\WPF-样式基础\obj\Debug\WPF-样式基础.csproj.GenerateResource.Cache
+E:\WPF Program\WPF-Test-InkCanvas\WPF-样式基础\obj\Debug\WPF-样式基础.exe
+E:\WPF Program\WPF-Test-InkCanvas\WPF-样式基础\obj\Debug\WPF-样式基础.pdb

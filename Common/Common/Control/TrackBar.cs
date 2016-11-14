@@ -67,7 +67,10 @@ namespace Common
 
             }
         }
-
+        public string Text
+        {
+            set { this.lb_Describe.Text = value; }
+        }
         [Browsable(true)]
         [Description("滑块的最大位置 ")]
         private int maximum;

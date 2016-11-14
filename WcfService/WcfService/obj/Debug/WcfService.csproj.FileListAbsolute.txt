@@ -1,0 +1,11 @@
+F:\WPF Program\WcfService\WcfService\bin\WcfService.dll
+F:\WPF Program\WcfService\WcfService\bin\WcfService.pdb
+F:\WPF Program\WcfService\WcfService\obj\Debug\WcfService.csprojResolveAssemblyReference.cache
+F:\WPF Program\WcfService\WcfService\obj\Debug\WcfService.dll
+F:\WPF Program\WcfService\WcfService\obj\Debug\WcfService.pdb
+E:\WPF Program\WcfService\WcfService\bin\WcfService.dll.config
+E:\WPF Program\WcfService\WcfService\bin\WcfService.dll
+E:\WPF Program\WcfService\WcfService\bin\WcfService.pdb
+E:\WPF Program\WcfService\WcfService\obj\Debug\WcfService.dll
+E:\WPF Program\WcfService\WcfService\obj\Debug\WcfService.pdb
+E:\WPF Program\WcfService\WcfService\obj\Debug\WcfService.csprojResolveAssemblyReference.cache

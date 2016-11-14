@@ -43,5 +43,19 @@ namespace Test
             //}
             GraphicsPathHelper.SetRegion(this,50);
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            this.loadingCircle1.Active = true;
+            
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            //string msg = "";//GetIP.GetExtranetIPAddressUsingWhatismyip()+"\r\n";
+            //msg+=GetIP.GetExtranetIPAddressUsingIp138()+"\r\n";
+            //GetIP.GetHostIPAddress().ForEach(x=>msg+=x+"\r\n");
+            //MessageBox.Show(msg);
+        }
     }
 }

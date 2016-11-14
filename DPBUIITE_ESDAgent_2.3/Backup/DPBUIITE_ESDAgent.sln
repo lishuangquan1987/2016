@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPBUIITE_ESDAgent", "DPBUIITE_ESDAgent\DPBUIITE_ESDAgent.csproj", "{9C66191B-AB1D-4C8D-9B0E-DF66A257FDC5}"
+	ProjectSection(ProjectDependencies) = postProject
+		{CC978206-098C-45E0-869C-43B5ADB88B46} = {CC978206-098C-45E0-869C-43B5ADB88B46}
+		{6815872A-C9D0-4239-A78A-2C6A478F2FE1} = {6815872A-C9D0-4239-A78A-2C6A478F2FE1}
+		{858BD279-35B4-434C-BDCC-00BF6E83E0C6} = {858BD279-35B4-434C-BDCC-00BF6E83E0C6}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dllESDComp_UART", "dllESDComp_UART\dllESDComp_UART.csproj", "{858BD279-35B4-434C-BDCC-00BF6E83E0C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dllESDConst", "dllESDConst\dllESDConst.csproj", "{761A3109-56A7-44B2-80E1-B2B97BF46610}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dllESDFileAP", "dllESDFileAP\dllESDFileAP.csproj", "{6815872A-C9D0-4239-A78A-2C6A478F2FE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dllESDRegister", "dllESDRegister\dllESDRegister.csproj", "{CC978206-098C-45E0-869C-43B5ADB88B46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C66191B-AB1D-4C8D-9B0E-DF66A257FDC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C66191B-AB1D-4C8D-9B0E-DF66A257FDC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C66191B-AB1D-4C8D-9B0E-DF66A257FDC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C66191B-AB1D-4C8D-9B0E-DF66A257FDC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{858BD279-35B4-434C-BDCC-00BF6E83E0C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{858BD279-35B4-434C-BDCC-00BF6E83E0C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{858BD279-35B4-434C-BDCC-00BF6E83E0C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{858BD279-35B4-434C-BDCC-00BF6E83E0C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{761A3109-56A7-44B2-80E1-B2B97BF46610}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{761A3109-56A7-44B2-80E1-B2B97BF46610}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{761A3109-56A7-44B2-80E1-B2B97BF46610}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{761A3109-56A7-44B2-80E1-B2B97BF46610}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6815872A-C9D0-4239-A78A-2C6A478F2FE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6815872A-C9D0-4239-A78A-2C6A478F2FE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6815872A-C9D0-4239-A78A-2C6A478F2FE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6815872A-C9D0-4239-A78A-2C6A478F2FE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC978206-098C-45E0-869C-43B5ADB88B46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC978206-098C-45E0-869C-43B5ADB88B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC978206-098C-45E0-869C-43B5ADB88B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC978206-098C-45E0-869C-43B5ADB88B46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

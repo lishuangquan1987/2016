@@ -1,0 +1,6 @@
+E:\Project2016\天气预报_WebService\WebApplication1\bin\WebApplication1.dll.config
+E:\Project2016\天气预报_WebService\WebApplication1\bin\WebApplication1.dll
+E:\Project2016\天气预报_WebService\WebApplication1\bin\WebApplication1.pdb
+E:\Project2016\天气预报_WebService\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+E:\Project2016\天气预报_WebService\WebApplication1\obj\Debug\WebApplication1.dll
+E:\Project2016\天气预报_WebService\WebApplication1\obj\Debug\WebApplication1.pdb

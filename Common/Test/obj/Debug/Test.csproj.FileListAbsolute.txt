@@ -8,3 +8,14 @@ F:\Project2016\Common\Test\obj\Debug\Test.Properties.Resources.resources
 F:\Project2016\Common\Test\obj\Debug\Test.csproj.GenerateResource.Cache
 F:\Project2016\Common\Test\obj\Debug\Test.exe
 F:\Project2016\Common\Test\obj\Debug\Test.pdb
+E:\Project2016\Common\Test\obj\Debug\Test.exe
+E:\Project2016\Common\Test\obj\Debug\Test.pdb
+E:\Project2016\Common\Test\bin\Debug\Control\LoadingCircle.cs
+E:\Project2016\Common\Test\bin\Debug\Test.exe
+E:\Project2016\Common\Test\bin\Debug\Test.pdb
+E:\Project2016\Common\Test\bin\Debug\Common.dll
+E:\Project2016\Common\Test\bin\Debug\Common.pdb
+E:\Project2016\Common\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\Project2016\Common\Test\obj\Debug\Test.Form1.resources
+E:\Project2016\Common\Test\obj\Debug\Test.Properties.Resources.resources
+E:\Project2016\Common\Test\obj\Debug\Test.csproj.GenerateResource.Cache

@@ -1,0 +1,5 @@
+E:\Project2016\大文件的拷贝\Test\bin\Debug\Test.exe.config
+E:\Project2016\大文件的拷贝\Test\bin\Debug\Test.exe
+E:\Project2016\大文件的拷贝\Test\bin\Debug\Test.pdb
+E:\Project2016\大文件的拷贝\Test\obj\Debug\Test.exe
+E:\Project2016\大文件的拷贝\Test\obj\Debug\Test.pdb

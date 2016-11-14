@@ -1,0 +1,9 @@
+E:\Project2016\Winform_滚动字幕\Winform_滚动字幕\bin\Debug\Winform_滚动字幕.exe.config
+E:\Project2016\Winform_滚动字幕\Winform_滚动字幕\bin\Debug\Winform_滚动字幕.exe
+E:\Project2016\Winform_滚动字幕\Winform_滚动字幕\bin\Debug\Winform_滚动字幕.pdb
+E:\Project2016\Winform_滚动字幕\Winform_滚动字幕\obj\Debug\Winform_滚动字幕.Properties.Resources.resources
+E:\Project2016\Winform_滚动字幕\Winform_滚动字幕\obj\Debug\Winform_滚动字幕.RollingText.resources
+E:\Project2016\Winform_滚动字幕\Winform_滚动字幕\obj\Debug\Winform_滚动字幕.csproj.GenerateResource.Cache
+E:\Project2016\Winform_滚动字幕\Winform_滚动字幕\obj\Debug\Winform_滚动字幕.exe
+E:\Project2016\Winform_滚动字幕\Winform_滚动字幕\obj\Debug\Winform_滚动字幕.pdb
+E:\Project2016\Winform_滚动字幕\Winform_滚动字幕\obj\Debug\Winform_滚动字幕.Form1.resources

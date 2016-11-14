@@ -1,0 +1,13 @@
+E:\Project2016\大文件的拷贝\大文件的拷贝\bin\Debug\大文件的拷贝.exe.config
+E:\Project2016\大文件的拷贝\大文件的拷贝\bin\Debug\大文件的拷贝.exe
+E:\Project2016\大文件的拷贝\大文件的拷贝\bin\Debug\大文件的拷贝.pdb
+E:\Project2016\大文件的拷贝\大文件的拷贝\obj\Debug\大文件的拷贝.csprojResolveAssemblyReference.cache
+E:\Project2016\大文件的拷贝\大文件的拷贝\obj\Debug\MainWindow.baml
+E:\Project2016\大文件的拷贝\大文件的拷贝\obj\Debug\MainWindow.g.cs
+E:\Project2016\大文件的拷贝\大文件的拷贝\obj\Debug\App.g.cs
+E:\Project2016\大文件的拷贝\大文件的拷贝\obj\Debug\大文件的拷贝_MarkupCompile.cache
+E:\Project2016\大文件的拷贝\大文件的拷贝\obj\Debug\大文件的拷贝.g.resources
+E:\Project2016\大文件的拷贝\大文件的拷贝\obj\Debug\大文件的拷贝.Properties.Resources.resources
+E:\Project2016\大文件的拷贝\大文件的拷贝\obj\Debug\大文件的拷贝.csproj.GenerateResource.Cache
+E:\Project2016\大文件的拷贝\大文件的拷贝\obj\Debug\大文件的拷贝.exe
+E:\Project2016\大文件的拷贝\大文件的拷贝\obj\Debug\大文件的拷贝.pdb

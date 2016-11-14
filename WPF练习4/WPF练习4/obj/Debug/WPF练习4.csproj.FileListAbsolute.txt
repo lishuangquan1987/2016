@@ -1,0 +1,11 @@
+F:\WPF Program\WPF练习4\WPF练习4\bin\Debug\WPF练习4.exe
+F:\WPF Program\WPF练习4\WPF练习4\bin\Debug\WPF练习4.pdb
+F:\WPF Program\WPF练习4\WPF练习4\obj\Debug\WPF练习4.csprojResolveAssemblyReference.cache
+F:\WPF Program\WPF练习4\WPF练习4\obj\Debug\MainWindow.baml
+F:\WPF Program\WPF练习4\WPF练习4\obj\Debug\MainWindow.g.cs
+F:\WPF Program\WPF练习4\WPF练习4\obj\Debug\WPF练习4_MarkupCompile.cache
+F:\WPF Program\WPF练习4\WPF练习4\obj\Debug\WPF练习4.g.resources
+F:\WPF Program\WPF练习4\WPF练习4\obj\Debug\WPF练习4.Properties.Resources.resources
+F:\WPF Program\WPF练习4\WPF练习4\obj\Debug\WPF练习4.csproj.GenerateResource.Cache
+F:\WPF Program\WPF练习4\WPF练习4\obj\Debug\WPF练习4.exe
+F:\WPF Program\WPF练习4\WPF练习4\obj\Debug\WPF练习4.pdb

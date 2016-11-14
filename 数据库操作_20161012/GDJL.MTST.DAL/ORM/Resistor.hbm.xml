@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+  <class name="GDJL.MTST.Model.Resistor,GDJL.MTST.Model" table="Resistor">
+    <id name="PartNumber" type="String" unsaved-value="0">
+      <column name="PartNumber" sql-type="VARCHAR" not-null="true" unique="true" />
+      <generator class="assigned">
+      </generator>
+    </id>
+    <property name="PartType"  type="String">
+      <column name="PartType" length="50" sql-type="VARCHAR" not-null="true" unique="false"/>
+    </property>
+    <property name="Value"  type="String">
+      <column name="Value" length="50" sql-type="VARCHAR" not-null="false" />
+    </property>
+    <property name="Description"  type="String">
+      <column name="Description" length="200" sql-type="VARCHAR" not-null="false" />
+    </property>
+    <property name="Power"  type="String">
+      <column name="Power" length="50" sql-type="VARCHAR" not-null="false" />
+    </property>
+    <property name="Tolerance"  type="String">
+      <column name="Tolerance" length="50"  sql-type="VARCHAR" not-null="false" />
+    </property>
+    <property name="SchematicPart"  type="String">
+      <column name="SchematicPart" length="50" sql-type="VARCHAR" not-null="false" />
+    </property>
+    <property name="LayoutPCBFootprint"  type="String">
+      <column name="LayoutPCBFootprint" length="50" sql-type="VARCHAR" not-null="false" />
+    </property>
+    <property name="AllegroPCBFootprint"  type="String">
+      <column name="AllegroPCBFootprint" length="50" sql-type="VARCHAR" not-null="false" />
+    </property>
+    <property name="PSpice"  type="String">
+      <column name="PSpice" length="50" sql-type="VARCHAR" not-null="false" />
+    </property>
+    <property name="ManufacturerPartNumber"  type="String">
+      <column name="ManufacturerPartNumber" length="100" sql-type="VARCHAR" not-null="false" />
+    </property>
+    <property name="Manufacturer"  type="String">
+      <column name="Manufacturer" length="50" sql-type="VARCHAR" not-null="false" />
+    </property>
+    <property name="DistributorPartNumber"  type="String">
+      <column name="DistributorPartNumber" length="50" sql-type="VARCHAR" not-null="false" />
+    </property>
+    <property name="Distributor"  type="String">
+      <column name="Distributor" length="50" sql-type="VARCHAR" not-null="false" />
+    </property>
+    <property name="Price"  type="Double">
+      <column name="Price"  sql-type="FLOAT" not-null="false" />
+    </property>
+    <property name="Availability"  type="String">
+      <column name="Availability" length="50" sql-type="VARCHAR" not-null="false" />
+    </property>
+    <property name="Datasheet"  type="String">
+      <column name="Datasheet" length="100" sql-type="VARCHAR" not-null="false" />
+    </property>
+    <property name="ActivepartsID"  type="String">
+      <column name="ActivepartsID" length="50" sql-type="VARCHAR" not-null="false" />
+    </property>
+    <property name="OperatingTemperatureRange"  type="String">
+      <column name="OperatingTemperatureRange" length="50" sql-type="VARCHAR" not-null="false" />
+    </property>
+    <property name="StorageTemperatureRange"  type="String">
+      <column name="StorageTemperatureRange" length="50" sql-type="VARCHAR" not-null="false" />
+    </property>
+  </class>
+</hibernate-mapping>

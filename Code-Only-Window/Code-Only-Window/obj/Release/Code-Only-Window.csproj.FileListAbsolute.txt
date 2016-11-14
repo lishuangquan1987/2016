@@ -1,0 +1,10 @@
+F:\WPF Program\Code-Only-Window\Code-Only-Window\bin\Release\Code-Only-Window.exe
+F:\WPF Program\Code-Only-Window\Code-Only-Window\bin\Release\Code-Only-Window.pdb
+F:\WPF Program\Code-Only-Window\Code-Only-Window\obj\Release\MainWindow.baml
+F:\WPF Program\Code-Only-Window\Code-Only-Window\obj\Release\MainWindow.g.cs
+F:\WPF Program\Code-Only-Window\Code-Only-Window\obj\Release\Code-Only-Window_MarkupCompile.cache
+F:\WPF Program\Code-Only-Window\Code-Only-Window\obj\Release\Code-Only-Window.g.resources
+F:\WPF Program\Code-Only-Window\Code-Only-Window\obj\Release\Code_Only_Window.Properties.Resources.resources
+F:\WPF Program\Code-Only-Window\Code-Only-Window\obj\Release\Code-Only-Window.csproj.GenerateResource.Cache
+F:\WPF Program\Code-Only-Window\Code-Only-Window\obj\Release\Code-Only-Window.exe
+F:\WPF Program\Code-Only-Window\Code-Only-Window\obj\Release\Code-Only-Window.pdb

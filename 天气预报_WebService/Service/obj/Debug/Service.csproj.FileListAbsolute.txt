@@ -1,0 +1,6 @@
+E:\Project2016\天气预报_WebService\Service\bin\Debug\Service.dll.config
+E:\Project2016\天气预报_WebService\Service\bin\Debug\Service.dll
+E:\Project2016\天气预报_WebService\Service\bin\Debug\Service.pdb
+E:\Project2016\天气预报_WebService\Service\obj\Debug\Service.dll
+E:\Project2016\天气预报_WebService\Service\obj\Debug\Service.pdb
+E:\Project2016\天气预报_WebService\Service\bin\Debug\app.config

@@ -1,0 +1,16 @@
+E:\WPF Program\WPF-Test-InkCanvas\Page_Frame\bin\Debug\Page_Frame.exe.config
+E:\WPF Program\WPF-Test-InkCanvas\Page_Frame\bin\Debug\Page_Frame.exe
+E:\WPF Program\WPF-Test-InkCanvas\Page_Frame\bin\Debug\Page_Frame.pdb
+E:\WPF Program\WPF-Test-InkCanvas\Page_Frame\obj\Debug\MainWindow.baml
+E:\WPF Program\WPF-Test-InkCanvas\Page_Frame\obj\Debug\Page1.baml
+E:\WPF Program\WPF-Test-InkCanvas\Page_Frame\obj\Debug\Page2.baml
+E:\WPF Program\WPF-Test-InkCanvas\Page_Frame\obj\Debug\MainWindow.g.cs
+E:\WPF Program\WPF-Test-InkCanvas\Page_Frame\obj\Debug\Page1.g.cs
+E:\WPF Program\WPF-Test-InkCanvas\Page_Frame\obj\Debug\Page2.g.cs
+E:\WPF Program\WPF-Test-InkCanvas\Page_Frame\obj\Debug\App.g.cs
+E:\WPF Program\WPF-Test-InkCanvas\Page_Frame\obj\Debug\Page_Frame_MarkupCompile.cache
+E:\WPF Program\WPF-Test-InkCanvas\Page_Frame\obj\Debug\Page_Frame.g.resources
+E:\WPF Program\WPF-Test-InkCanvas\Page_Frame\obj\Debug\Page_Frame.Properties.Resources.resources
+E:\WPF Program\WPF-Test-InkCanvas\Page_Frame\obj\Debug\Page_Frame.csproj.GenerateResource.Cache
+E:\WPF Program\WPF-Test-InkCanvas\Page_Frame\obj\Debug\Page_Frame.exe
+E:\WPF Program\WPF-Test-InkCanvas\Page_Frame\obj\Debug\Page_Frame.pdb

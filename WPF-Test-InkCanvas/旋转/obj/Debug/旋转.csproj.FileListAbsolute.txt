@@ -1,0 +1,12 @@
+E:\WPF Program\WPF-Test-InkCanvas\旋转\bin\Debug\旋转.exe.config
+E:\WPF Program\WPF-Test-InkCanvas\旋转\bin\Debug\旋转.exe
+E:\WPF Program\WPF-Test-InkCanvas\旋转\bin\Debug\旋转.pdb
+E:\WPF Program\WPF-Test-InkCanvas\旋转\obj\Debug\MainWindow.baml
+E:\WPF Program\WPF-Test-InkCanvas\旋转\obj\Debug\MainWindow.g.cs
+E:\WPF Program\WPF-Test-InkCanvas\旋转\obj\Debug\App.g.cs
+E:\WPF Program\WPF-Test-InkCanvas\旋转\obj\Debug\旋转_MarkupCompile.cache
+E:\WPF Program\WPF-Test-InkCanvas\旋转\obj\Debug\旋转.g.resources
+E:\WPF Program\WPF-Test-InkCanvas\旋转\obj\Debug\旋转.Properties.Resources.resources
+E:\WPF Program\WPF-Test-InkCanvas\旋转\obj\Debug\旋转.csproj.GenerateResource.Cache
+E:\WPF Program\WPF-Test-InkCanvas\旋转\obj\Debug\旋转.exe
+E:\WPF Program\WPF-Test-InkCanvas\旋转\obj\Debug\旋转.pdb

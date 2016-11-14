@@ -1,0 +1,20 @@
+F:\MTT\DPBUIITE_ESDAgent\dllESDConst\bin\Debug\Const.dll
+F:\MTT\DPBUIITE_ESDAgent\dllESDConst\bin\Debug\Const.pdb
+F:\MTT\DPBUIITE_ESDAgent\dllESDConst\obj\Debug\ResolveAssemblyReference.cache
+F:\MTT\DPBUIITE_ESDAgent\dllESDConst\obj\Debug\Const.dll
+F:\MTT\DPBUIITE_ESDAgent\dllESDConst\obj\Debug\Const.pdb
+D:\DPBUIITE_ESDAgent\dllESDConst\bin\Debug\Const.dll
+D:\DPBUIITE_ESDAgent\dllESDConst\bin\Debug\Const.pdb
+D:\DPBUIITE_ESDAgent\dllESDConst\obj\Debug\ResolveAssemblyReference.cache
+D:\DPBUIITE_ESDAgent\dllESDConst\obj\Debug\Const.dll
+D:\DPBUIITE_ESDAgent\dllESDConst\obj\Debug\Const.pdb
+E:\DPBUIITE_ESDAgent_2.3\dllESDConst\bin\Debug\Const.dll
+E:\DPBUIITE_ESDAgent_2.3\dllESDConst\bin\Debug\Const.pdb
+E:\DPBUIITE_ESDAgent_2.3\dllESDConst\obj\Debug\ResolveAssemblyReference.cache
+E:\DPBUIITE_ESDAgent_2.3\dllESDConst\obj\Debug\Const.dll
+E:\DPBUIITE_ESDAgent_2.3\dllESDConst\obj\Debug\Const.pdb
+F:\c# program\Projects\DPBUIITE_ESDAgent_2.3\dllESDConst\bin\Debug\Const.dll
+F:\c# program\Projects\DPBUIITE_ESDAgent_2.3\dllESDConst\bin\Debug\Const.pdb
+F:\c# program\Projects\DPBUIITE_ESDAgent_2.3\dllESDConst\obj\Debug\dllESDConst.csprojResolveAssemblyReference.cache
+F:\c# program\Projects\DPBUIITE_ESDAgent_2.3\dllESDConst\obj\Debug\Const.dll
+F:\c# program\Projects\DPBUIITE_ESDAgent_2.3\dllESDConst\obj\Debug\Const.pdb

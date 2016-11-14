@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\jonson\dllRegister\dllRegister\bin\Debug\dllRegister.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\jonson\dllRegister\dllRegister\bin\Debug\dllRegister.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\jonson\dllRegister\dllRegister\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\jonson\dllRegister\dllRegister\obj\Debug\dllRegister.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\jonson\dllRegister\dllRegister\obj\Debug\dllRegister.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_FT_dll\dllRegister\dllRegister\bin\Release\dllRegister.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_FT_dll\dllRegister\dllRegister\bin\Release\dllRegister.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_FT_dll\dllRegister\dllRegister\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_FT_dll\dllRegister\dllRegister\obj\Release\dllRegister.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Wistron Program\DPBUIITE_FT\DPBUIITE_FT_dll\dllRegister\dllRegister\obj\Release\dllRegister.pdb

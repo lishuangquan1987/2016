@@ -1,0 +1,9 @@
+E:\Project2016\WCF_双工_Server\WCFService\bin\Debug\WCFService.dll
+E:\Project2016\WCF_双工_Server\WCFService\bin\Debug\WCFService.pdb
+E:\Project2016\WCF_双工_Server\WCFService\obj\Debug\WCFService.dll
+E:\Project2016\WCF_双工_Server\WCFService\obj\Debug\WCFService.pdb
+E:\Project2016\WCF-双工-ClientChatToServer\WCF_双工_Server\WCFService\bin\Debug\WCFService.dll
+E:\Project2016\WCF-双工-ClientChatToServer\WCF_双工_Server\WCFService\bin\Debug\WCFService.pdb
+E:\Project2016\WCF-双工-ClientChatToServer\WCF_双工_Server\WCFService\obj\Debug\WCFService.csprojResolveAssemblyReference.cache
+E:\Project2016\WCF-双工-ClientChatToServer\WCF_双工_Server\WCFService\obj\Debug\WCFService.dll
+E:\Project2016\WCF-双工-ClientChatToServer\WCF_双工_Server\WCFService\obj\Debug\WCFService.pdb

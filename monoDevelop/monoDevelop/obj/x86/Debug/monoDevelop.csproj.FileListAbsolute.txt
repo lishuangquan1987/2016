@@ -1,0 +1,4 @@
+E:\Project2016\monoDevelop\monoDevelop\bin\Debug\monoDevelop.exe
+E:\Project2016\monoDevelop\monoDevelop\bin\Debug\monoDevelop.pdb
+E:\Project2016\monoDevelop\monoDevelop\obj\x86\Debug\monoDevelop.exe
+E:\Project2016\monoDevelop\monoDevelop\obj\x86\Debug\monoDevelop.pdb

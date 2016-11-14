@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="5a8cc5ce-f215-47dd-95d7-b09b1824f947" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:16688/UpDateService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="UpDateService.disco" MetadataType="Disco" ID="7a56e539-1c8a-4ad8-bba8-af5c681ec0c5" SourceId="1" SourceUrl="http://localhost:16688/UpDateService.svc?disco" />
+    <MetadataFile FileName="UpDateService.xsd" MetadataType="Schema" ID="73becadd-7918-4d42-9949-c94f1ec3f983" SourceId="1" SourceUrl="http://localhost:16688/UpDateService.svc?xsd=xsd0" />
+    <MetadataFile FileName="UpDateService1.xsd" MetadataType="Schema" ID="ae6358eb-35ff-4b12-8cee-4ed5292a392e" SourceId="1" SourceUrl="http://localhost:16688/UpDateService.svc?xsd=xsd3" />
+    <MetadataFile FileName="upDateService.wsdl" MetadataType="Wsdl" ID="0f7cdd11-ac62-435c-b29c-eee625cb598d" SourceId="1" SourceUrl="http://localhost:16688/UpDateService.svc?wsdl" />
+    <MetadataFile FileName="UpDateService2.xsd" MetadataType="Schema" ID="34b86a0a-933e-4861-94b1-365f42b264d4" SourceId="1" SourceUrl="http://localhost:16688/UpDateService.svc?xsd=xsd1" />
+    <MetadataFile FileName="UpDateService3.xsd" MetadataType="Schema" ID="dea6c2b7-4743-4655-aaf3-767c74d739e5" SourceId="1" SourceUrl="http://localhost:16688/UpDateService.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

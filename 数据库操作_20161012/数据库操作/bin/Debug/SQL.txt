@@ -1,0 +1,412 @@
+USE [SFYQJ]
+GO
+
+/****** Object:  Table [dbo].[Capacitor]    Script Date: 10/09/2016 09:24:46 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+SET ANSI_PADDING ON
+GO
+
+CREATE TABLE [dbo].[Capacitor](
+	[PartNumber] [varchar](50) NOT NULL,
+	[PartType] [varchar](50) NOT NULL,
+	[Value] [varchar](50) NULL,
+	[Description] [varchar](200) NULL,
+	[RatedVoltage] [varchar](50) NULL,
+	[Tolerance] [varchar](50) NULL,
+	[SchematicPart] [varchar](50) NULL,
+	[LayoutPCBFootprint] [varchar](50) NULL,
+	[AllegroPCBFootprint] [varchar](50) NULL,
+	[PSpice] [varchar](50) NULL,
+	[ManufacturerPartNumber] [varchar](100) NULL,
+	[Manufacturer] [varchar](50) NULL,
+	[DistributorPartNumber] [varchar](50) NULL,
+	[Distributor] [varchar](50) NULL,
+	[Price] [float] NULL,
+	[Availability] [varchar](50) NULL,
+	[Datasheet] [varchar](100) NULL,
+	[ActivepartsID] [varchar](50) NULL,
+	[OperatingTemperatureRange] [varchar](50) NULL,
+	[StorageTemperatureRange] [varchar](50) NULL,
+ CONSTRAINT [PK_Capacitor] PRIMARY KEY CLUSTERED 
+(
+	[PartNumber] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+
+SET ANSI_PADDING OFF
+GO
+
+
+
+USE [SFYQJ]
+GO
+
+/****** Object:  Table [dbo].[IC]    Script Date: 10/09/2016 09:25:44 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+SET ANSI_PADDING ON
+GO
+
+CREATE TABLE [dbo].[IC](
+	[PartNumber] [varchar](50) NOT NULL,
+	[PartType] [varchar](50) NOT NULL,
+	[Value] [varchar](50) NULL,
+	[Description] [varchar](200) NULL,
+	[SchematicPart] [varchar](50) NULL,
+	[LayoutPCBFootprint] [varchar](50) NULL,
+	[AllegroPCBFootprint] [varchar](50) NULL,
+	[PSpice] [varchar](50) NULL,
+	[ManufacturerPartNumber] [varchar](100) NULL,
+	[Manufacturer] [varchar](50) NULL,
+	[DistributorPartNumber] [varchar](50) NULL,
+	[Distributor] [varchar](50) NULL,
+	[Price] [float] NULL,
+	[Availability] [varchar](50) NULL,
+	[Datasheet] [varchar](100) NULL,
+	[ActivepartsID] [varchar](50) NULL,
+	[OperatingTemperatureRange] [varchar](50) NULL,
+	[StorageTemperatureRange] [varchar](50) NULL,
+ CONSTRAINT [PK_IC] PRIMARY KEY CLUSTERED 
+(
+	[PartNumber] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+
+SET ANSI_PADDING OFF
+GO
+
+
+
+USE [SFYQJ]
+GO
+
+/****** Object:  Table [dbo].[Inductor]    Script Date: 10/09/2016 09:26:13 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+SET ANSI_PADDING ON
+GO
+
+CREATE TABLE [dbo].[Inductor](
+	[PartNumber] [varchar](50) NOT NULL,
+	[PartType] [varchar](50) NOT NULL,
+	[Value] [varchar](50) NULL,
+	[Description] [varchar](200) NULL,
+	[Rating] [varchar](50) NULL,
+	[Tolerance] [varchar](50) NULL,
+	[SchematicPart] [varchar](50) NULL,
+	[LayoutPCBFootprint] [varchar](50) NULL,
+	[AllegroPCBFootprint] [varchar](50) NULL,
+	[PSpice] [varchar](50) NULL,
+	[ManufacturerPartNumber] [varchar](100) NULL,
+	[Manufacturer] [varchar](50) NULL,
+	[DistributorPartNumber] [varchar](50) NULL,
+	[Distributor] [varchar](50) NULL,
+	[Price] [float] NULL,
+	[Availability] [varchar](50) NULL,
+	[Datasheet] [varchar](100) NULL,
+	[ActivepartsID] [varchar](50) NULL,
+	[OperatingTemperatureRange] [varchar](50) NULL,
+	[StorageTemperatureRange] [varchar](50) NULL,
+ CONSTRAINT [PK_Inductor] PRIMARY KEY CLUSTERED 
+(
+	[PartNumber] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+
+SET ANSI_PADDING OFF
+GO
+
+
+
+
+USE [SFYQJ]
+GO
+
+/****** Object:  Table [dbo].[Misc]    Script Date: 10/09/2016 09:26:39 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+SET ANSI_PADDING ON
+GO
+
+CREATE TABLE [dbo].[Misc](
+	[PartNumber] [varchar](50) NOT NULL,
+	[PartType] [varchar](50) NOT NULL,
+	[Value] [varchar](50) NULL,
+	[Description] [varchar](200) NULL,
+	[Rating] [varchar](50) NULL,
+	[Tolerance] [varchar](50) NULL,
+	[SchematicPart] [varchar](50) NULL,
+	[LayoutPCBFootprint] [varchar](50) NULL,
+	[AllegroPCBFootprint] [varchar](50) NULL,
+	[PSpice] [varchar](50) NULL,
+	[ManufacturerPartNumber] [varchar](100) NULL,
+	[Manufacturer] [varchar](50) NULL,
+	[DistributorPartNumber] [varchar](50) NULL,
+	[Distributor] [varchar](50) NULL,
+	[Price] [float] NULL,
+	[Availability] [varchar](50) NULL,
+	[Datasheet] [varchar](100) NULL,
+	[ActivepartsID] [varchar](50) NULL,
+	[OperatingTemperatureRange] [varchar](50) NULL,
+	[StorageTemperatureRange] [varchar](50) NULL,
+ CONSTRAINT [PK_Misc] PRIMARY KEY CLUSTERED 
+(
+	[PartNumber] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+
+SET ANSI_PADDING OFF
+GO
+
+
+
+
+
+USE [SFYQJ]
+GO
+
+/****** Object:  Table [dbo].[Module]    Script Date: 10/09/2016 09:27:01 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+SET ANSI_PADDING ON
+GO
+
+CREATE TABLE [dbo].[Module](
+	[PartNumber] [varchar](50) NOT NULL,
+	[PartType] [varchar](50) NOT NULL,
+	[Value] [varchar](50) NULL,
+	[Description] [varchar](200) NULL,
+	[SchematicPart] [varchar](50) NULL,
+	[LayoutPCBFootprint] [varchar](50) NULL,
+	[AllegroPCBFootprint] [varchar](50) NULL,
+	[PSpice] [varchar](50) NULL,
+	[ManufacturerPartNumber] [varchar](100) NULL,
+	[Manufacturer] [varchar](50) NULL,
+	[DistributorPartNumber] [varchar](50) NULL,
+	[Distributor] [varchar](50) NULL,
+	[Price] [float] NULL,
+	[Availability] [varchar](50) NULL,
+	[Datasheet] [varchar](100) NULL,
+	[ActivepartsID] [varchar](50) NULL,
+	[OperatingTemperatureRange] [varchar](50) NULL,
+	[StorageTemperatureRange] [varchar](50) NULL,
+ CONSTRAINT [PK_Module] PRIMARY KEY CLUSTERED 
+(
+	[PartNumber] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+
+SET ANSI_PADDING OFF
+GO
+
+
+
+
+USE [SFYQJ]
+GO
+
+/****** Object:  Table [dbo].[Oscillator]    Script Date: 10/09/2016 09:27:26 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+SET ANSI_PADDING ON
+GO
+
+CREATE TABLE [dbo].[Oscillator](
+	[PartNumber] [varchar](50) NOT NULL,
+	[PartType] [varchar](50) NOT NULL,
+	[Value] [varchar](50) NULL,
+	[Description] [varchar](200) NULL,
+	[Rating] [varchar](50) NULL,
+	[Tolerance] [varchar](50) NULL,
+	[SchematicPart] [varchar](50) NULL,
+	[LayoutPCBFootprint] [varchar](50) NULL,
+	[AllegroPCBFootprint] [varchar](50) NULL,
+	[PSpice] [varchar](50) NULL,
+	[ManufacturerPartNumber] [varchar](100) NULL,
+	[Manufacturer] [varchar](50) NULL,
+	[DistributorPartNumber] [varchar](50) NULL,
+	[Distributor] [varchar](50) NULL,
+	[Price] [float] NULL,
+	[Availability] [varchar](50) NULL,
+	[Datasheet] [varchar](100) NULL,
+	[ActivepartsID] [varchar](50) NULL,
+	[OperatingTemperatureRange] [varchar](50) NULL,
+	[StorageTemperatureRange] [varchar](50) NULL,
+	[TempratureStability] [varchar](50) NULL,
+	[PhaseNoise_10HZ] [varchar](50) NULL,
+	[PhaseNoise_100HZ] [varchar](50) NULL,
+	[PhaseNoise_1KHZ] [varchar](50) NULL,
+	[PhaseNoise_10KHZ] [varchar](50) NULL,
+	[PhaseNoise_100KHZ] [varchar](50) NULL,
+ CONSTRAINT [PK_Oscillator] PRIMARY KEY CLUSTERED 
+(
+	[PartNumber] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+
+SET ANSI_PADDING OFF
+GO
+
+
+
+
+USE [SFYQJ]
+GO
+
+/****** Object:  Table [dbo].[Resistor]    Script Date: 10/09/2016 09:29:47 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+SET ANSI_PADDING ON
+GO
+
+CREATE TABLE [dbo].[Resistor](
+	[PartNumber] [varchar](50) NOT NULL,
+	[PartType] [varchar](50) NOT NULL,
+	[Value] [varchar](50) NULL,
+	[Description] [varchar](200) NULL,
+	[Power] [varchar](50) NULL,
+	[Tolerance] [varchar](50) NULL,
+	[SchematicPart] [varchar](100) NULL,
+	[LayoutPCBFootprint] [varchar](50) NULL,
+	[AllegroPCBFootprint] [varchar](50) NULL,
+	[PSpice] [varchar](50) NULL,
+	[ManufacturerPartNumber] [varchar](100) NULL,
+	[Manufacturer] [varchar](50) NULL,
+	[DistributorPartNumber] [varchar](50) NULL,
+	[Distributor] [varchar](50) NULL,
+	[Price] [float] NULL,
+	[Availability] [varchar](50) NULL,
+	[Datasheet] [varchar](100) NULL,
+	[ActivepartsID] [varchar](50) NULL,
+	[OperatingTemperatureRange] [varchar](50) NULL,
+	[StorageTemperatureRange] [varchar](50) NULL,
+ CONSTRAINT [PK_Resistor] PRIMARY KEY CLUSTERED 
+(
+	[PartNumber] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+
+SET ANSI_PADDING OFF
+GO
+
+
+
+
+USE [SFYQJ]
+GO
+
+/****** Object:  Table [dbo].[Sensors]    Script Date: 10/09/2016 09:30:02 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+SET ANSI_PADDING ON
+GO
+
+CREATE TABLE [dbo].[Sensors](
+	[PartNumber] [varchar](50) NOT NULL,
+	[PartType] [varchar](50) NOT NULL,
+	[Value] [varchar](50) NULL,
+	[Description] [varchar](200) NULL,
+	[SchematicPart] [varchar](100) NULL,
+	[LayoutPCBFootprint] [varchar](50) NULL,
+	[AllegroPCBFootprint] [varchar](50) NULL,
+	[PSpice] [varchar](50) NULL,
+	[ManufacturerPartNumber] [varchar](100) NULL,
+	[Manufacturer] [varchar](50) NULL,
+	[DistributorPartNumber] [varchar](50) NULL,
+	[Distributor] [varchar](50) NULL,
+	[Price] [float] NULL,
+	[Availability] [varchar](50) NULL,
+	[Datasheet] [varchar](100) NULL,
+	[ActivepartsID] [varchar](50) NULL,
+	[OperatingTemperatureRange] [varchar](50) NULL,
+	[StorageTemperatureRange] [varchar](50) NULL,
+ CONSTRAINT [PK_Sensors] PRIMARY KEY CLUSTERED 
+(
+	[PartNumber] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+
+SET ANSI_PADDING OFF
+GO
+
+
+
+
+USE [SFYQJ]
+GO
+
+/****** Object:  Table [dbo].[User]    Script Date: 10/09/2016 16:57:56 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+SET ANSI_PADDING ON
+GO
+
+CREATE TABLE [dbo].[User](
+	[UserName] [varchar](50) NOT NULL,
+	[PassWord] [varchar](50) NULL,
+ CONSTRAINT [PK_User] PRIMARY KEY CLUSTERED 
+(
+	[UserName] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+
+SET ANSI_PADDING OFF
+GO
+
+
+

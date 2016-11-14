@@ -1,0 +1,47 @@
+﻿<Page x:Class="数据库操作.View.OscillatorPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+	Title="CapacitorPage">
+
+    <Grid>
+        <ListView Name="capacitorListView" ItemsSource="{Binding LstOscillator}">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="PartNumber" Width="auto" DisplayMemberBinding="{Binding PartNumber}"></GridViewColumn>
+                    <GridViewColumn Header="PartType" Width="auto" DisplayMemberBinding="{Binding PartType}"></GridViewColumn>
+                    <GridViewColumn Header="Value" Width="auto" DisplayMemberBinding="{Binding Value}"></GridViewColumn>
+                    <GridViewColumn Header="Description" Width="auto" DisplayMemberBinding="{Binding Description}"></GridViewColumn>
+
+                    <GridViewColumn Header="Rating" Width="auto" DisplayMemberBinding="{Binding Rating}"></GridViewColumn>
+                    <GridViewColumn Header="Tolerance" Width="auto" DisplayMemberBinding="{Binding Tolerance}"></GridViewColumn>
+                    <GridViewColumn Header="SchematicPart" Width="auto" DisplayMemberBinding="{Binding SchematicPart}"></GridViewColumn>
+                    <GridViewColumn Header="LayoutPCBFootprint" Width="auto" DisplayMemberBinding="{Binding LayoutPCBFootprint}"></GridViewColumn>
+                    <GridViewColumn Header="AllegroPCBFootprint" Width="auto" DisplayMemberBinding="{Binding AllegroPCBFootprint}"></GridViewColumn>
+                    <GridViewColumn Header="PSpice" Width="auto" DisplayMemberBinding="{Binding PSpice}"></GridViewColumn>
+                    <GridViewColumn Header="ManufacturerPartNumber" Width="auto" DisplayMemberBinding="{Binding ManufacturerPartNumber}"></GridViewColumn>
+                    <GridViewColumn Header="Manufacturer" Width="auto" DisplayMemberBinding="{Binding Manufacturer}"></GridViewColumn>
+                    <GridViewColumn Header="DistributorPartNumber" Width="auto" DisplayMemberBinding="{Binding DistributorPartNumber}"></GridViewColumn>
+                    <GridViewColumn Header="Distributor" Width="auto" DisplayMemberBinding="{Binding Distributor}"></GridViewColumn>
+                    <GridViewColumn Header="Price" Width="auto" DisplayMemberBinding="{Binding Price}"></GridViewColumn>
+                    <GridViewColumn Header="Availability" Width="auto" DisplayMemberBinding="{Binding Availability}"></GridViewColumn>
+                    <GridViewColumn Header="Datasheet" Width="auto" DisplayMemberBinding="{Binding Datasheet}"></GridViewColumn>
+                    <GridViewColumn Header="ActivepartsID" Width="auto" DisplayMemberBinding="{Binding ActivepartsID}"></GridViewColumn>
+                    <GridViewColumn Header="OperatingTemperatureRange" Width="auto" DisplayMemberBinding="{Binding OperatingTemperatureRange}"></GridViewColumn>
+                    <GridViewColumn Header="StorageTemperatureRange" Width="auto" DisplayMemberBinding="{Binding StorageTemperatureRange}"></GridViewColumn>
+
+                    <GridViewColumn Header="TempratureStability" Width="auto" DisplayMemberBinding="{Binding TempratureStability}"></GridViewColumn>
+                    <GridViewColumn Header="PhaseNoise_10HZ" Width="auto" DisplayMemberBinding="{Binding PhaseNoise_10HZ}"></GridViewColumn>
+                    <GridViewColumn Header="PhaseNoise_100HZ" Width="auto" DisplayMemberBinding="{Binding PhaseNoise_100HZ}"></GridViewColumn>
+                    <GridViewColumn Header="PhaseNoise_1KHZ" Width="auto" DisplayMemberBinding="{Binding PhaseNoise_1KHZ}"></GridViewColumn>
+                    <GridViewColumn Header="PhaseNoise_10KHZ" Width="auto" DisplayMemberBinding="{Binding PhaseNoise_10KHZ}"></GridViewColumn>
+                    <GridViewColumn Header="PhaseNoise_100KHZ" Width="auto" DisplayMemberBinding="{Binding PhaseNoise_100KHZ}"></GridViewColumn>
+
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Page>

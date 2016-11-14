@@ -1,0 +1,35 @@
+F:\MTT\DPBUIITE_ESDAgent\dllESDFileAP\bin\Debug\dllESDFileAP.dll
+F:\MTT\DPBUIITE_ESDAgent\dllESDFileAP\bin\Debug\dllESDFileAP.pdb
+F:\MTT\DPBUIITE_ESDAgent\dllESDFileAP\bin\Debug\dllESDRegister.dll
+F:\MTT\DPBUIITE_ESDAgent\dllESDFileAP\bin\Debug\dllESDRegister.pdb
+F:\MTT\DPBUIITE_ESDAgent\dllESDFileAP\obj\Debug\ResolveAssemblyReference.cache
+F:\MTT\DPBUIITE_ESDAgent\dllESDFileAP\obj\Debug\dllESDFileAP.dll
+F:\MTT\DPBUIITE_ESDAgent\dllESDFileAP\obj\Debug\dllESDFileAP.pdb
+D:\DPBUIITE_ESDAgent\dllESDFileAP\bin\Debug\dllESDFileAP.dll
+D:\DPBUIITE_ESDAgent\dllESDFileAP\bin\Debug\dllESDFileAP.pdb
+D:\DPBUIITE_ESDAgent\dllESDFileAP\bin\Debug\dllESDRegister.dll
+D:\DPBUIITE_ESDAgent\dllESDFileAP\bin\Debug\dllESDRegister.pdb
+D:\DPBUIITE_ESDAgent\dllESDFileAP\obj\Debug\ResolveAssemblyReference.cache
+D:\DPBUIITE_ESDAgent\dllESDFileAP\obj\Debug\dllESDFileAP.dll
+D:\DPBUIITE_ESDAgent\dllESDFileAP\obj\Debug\dllESDFileAP.pdb
+D:\DPBUIITE_ESDAgent_2.3\dllESDFileAP\bin\Debug\dllESDFileAP.dll
+D:\DPBUIITE_ESDAgent_2.3\dllESDFileAP\bin\Debug\dllESDFileAP.pdb
+D:\DPBUIITE_ESDAgent_2.3\dllESDFileAP\bin\Debug\dllESDRegister.dll
+D:\DPBUIITE_ESDAgent_2.3\dllESDFileAP\bin\Debug\dllESDRegister.pdb
+D:\DPBUIITE_ESDAgent_2.3\dllESDFileAP\obj\Debug\ResolveAssemblyReference.cache
+D:\DPBUIITE_ESDAgent_2.3\dllESDFileAP\obj\Debug\dllESDFileAP.dll
+D:\DPBUIITE_ESDAgent_2.3\dllESDFileAP\obj\Debug\dllESDFileAP.pdb
+E:\DPBUIITE_ESDAgent_2.3\dllESDFileAP\bin\Debug\dllESDFileAP.dll
+E:\DPBUIITE_ESDAgent_2.3\dllESDFileAP\bin\Debug\dllESDFileAP.pdb
+E:\DPBUIITE_ESDAgent_2.3\dllESDFileAP\bin\Debug\dllESDRegister.dll
+E:\DPBUIITE_ESDAgent_2.3\dllESDFileAP\bin\Debug\dllESDRegister.pdb
+E:\DPBUIITE_ESDAgent_2.3\dllESDFileAP\obj\Debug\ResolveAssemblyReference.cache
+E:\DPBUIITE_ESDAgent_2.3\dllESDFileAP\obj\Debug\dllESDFileAP.dll
+E:\DPBUIITE_ESDAgent_2.3\dllESDFileAP\obj\Debug\dllESDFileAP.pdb
+F:\c# program\Projects\DPBUIITE_ESDAgent_2.3\dllESDFileAP\bin\Debug\dllESDFileAP.dll
+F:\c# program\Projects\DPBUIITE_ESDAgent_2.3\dllESDFileAP\bin\Debug\dllESDFileAP.pdb
+F:\c# program\Projects\DPBUIITE_ESDAgent_2.3\dllESDFileAP\bin\Debug\dllESDRegister.dll
+F:\c# program\Projects\DPBUIITE_ESDAgent_2.3\dllESDFileAP\bin\Debug\dllESDRegister.pdb
+F:\c# program\Projects\DPBUIITE_ESDAgent_2.3\dllESDFileAP\obj\Debug\dllESDFileAP.csprojResolveAssemblyReference.cache
+F:\c# program\Projects\DPBUIITE_ESDAgent_2.3\dllESDFileAP\obj\Debug\dllESDFileAP.dll
+F:\c# program\Projects\DPBUIITE_ESDAgent_2.3\dllESDFileAP\obj\Debug\dllESDFileAP.pdb

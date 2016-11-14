@@ -1,0 +1,17 @@
+E:\Project2016\Common\WPF.EffectTurnTest\bin\Debug\WPF.EffectTurnTest.exe.config
+E:\Project2016\Common\WPF.EffectTurnTest\bin\Debug\WPF.EffectTurnTest.exe
+E:\Project2016\Common\WPF.EffectTurnTest\bin\Debug\WPF.EffectTurnTest.pdb
+E:\Project2016\Common\WPF.EffectTurnTest\bin\Debug\Common.WPF.exe
+E:\Project2016\Common\WPF.EffectTurnTest\bin\Debug\Common.WPF.pdb
+E:\Project2016\Common\WPF.EffectTurnTest\obj\Debug\WPF.EffectTurnTest.csprojResolveAssemblyReference.cache
+E:\Project2016\Common\WPF.EffectTurnTest\obj\Debug\MainWindow.baml
+E:\Project2016\Common\WPF.EffectTurnTest\obj\Debug\Page2.baml
+E:\Project2016\Common\WPF.EffectTurnTest\obj\Debug\MainWindow.g.cs
+E:\Project2016\Common\WPF.EffectTurnTest\obj\Debug\Page2.g.cs
+E:\Project2016\Common\WPF.EffectTurnTest\obj\Debug\App.g.cs
+E:\Project2016\Common\WPF.EffectTurnTest\obj\Debug\WPF.EffectTurnTest_MarkupCompile.cache
+E:\Project2016\Common\WPF.EffectTurnTest\obj\Debug\WPF.EffectTurnTest.g.resources
+E:\Project2016\Common\WPF.EffectTurnTest\obj\Debug\WPF.EffectTurnTest.Properties.Resources.resources
+E:\Project2016\Common\WPF.EffectTurnTest\obj\Debug\WPF.EffectTurnTest.csproj.GenerateResource.Cache
+E:\Project2016\Common\WPF.EffectTurnTest\obj\Debug\WPF.EffectTurnTest.exe
+E:\Project2016\Common\WPF.EffectTurnTest\obj\Debug\WPF.EffectTurnTest.pdb

@@ -1,0 +1,11 @@
+﻿<Window x:Class="WPF_Test_Popub.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525" >
+    <Grid >
+        <StackPanel  Margin="5"  MouseDown="Grid_MouseDown" >
+            <TextBox  Name="textbox" Height="auto" TextWrapping="Wrap" Text="TextBox"/>
+        </StackPanel>
+
+    </Grid>
+</Window>

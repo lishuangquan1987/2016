@@ -1,0 +1,6 @@
+E:\Project2016\大文件的拷贝\文件夹复制\bin\Debug\文件夹复制.exe.config
+E:\Project2016\大文件的拷贝\文件夹复制\bin\Debug\文件夹复制.exe
+E:\Project2016\大文件的拷贝\文件夹复制\bin\Debug\文件夹复制.pdb
+E:\Project2016\大文件的拷贝\文件夹复制\obj\Debug\文件夹复制.csprojResolveAssemblyReference.cache
+E:\Project2016\大文件的拷贝\文件夹复制\obj\Debug\文件夹复制.exe
+E:\Project2016\大文件的拷贝\文件夹复制\obj\Debug\文件夹复制.pdb

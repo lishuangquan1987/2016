@@ -1,0 +1,67 @@
+E:\我的项目\1123#\1123# V0.0.0.5 入库\源程序\软件注册\WordReport\bin\Debug\注册码生成.exe
+E:\我的项目\1123#\1123# V0.0.0.5 入库\源程序\软件注册\WordReport\bin\Debug\注册码生成.pdb
+E:\我的项目\1123#\1123# V0.0.0.5 入库\源程序\软件注册\WordReport\bin\Debug\Microsoft.Office.Interop.Word.dll
+E:\我的项目\1123#\1123# V0.0.0.5 入库\源程序\软件注册\WordReport\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\我的项目\1123#\1123# V0.0.0.5 入库\源程序\软件注册\WordReport\bin\Debug\office.dll
+E:\我的项目\1123#\1123# V0.0.0.5 入库\源程序\软件注册\WordReport\obj\Debug\ResolveAssemblyReference.cache
+E:\我的项目\1123#\1123# V0.0.0.5 入库\源程序\软件注册\WordReport\obj\Debug\WordReport.Properties.Resources.resources
+E:\我的项目\1123#\1123# V0.0.0.5 入库\源程序\软件注册\WordReport\obj\Debug\WordReport.RegGenerateFrm.resources
+E:\我的项目\1123#\1123# V0.0.0.5 入库\源程序\软件注册\WordReport\obj\Debug\WordReport.RegisterFrm.resources
+E:\我的项目\1123#\1123# V0.0.0.5 入库\源程序\软件注册\WordReport\obj\Debug\SoftRegister.csproj.GenerateResource.Cache
+E:\我的项目\1123#\1123# V0.0.0.5 入库\源程序\软件注册\WordReport\obj\Debug\注册码生成.exe
+E:\我的项目\1123#\1123# V0.0.0.5 入库\源程序\软件注册\WordReport\obj\Debug\注册码生成.pdb
+E:\我的项目\1123#\1123# V0.0.0.5 入库\源程序\软件注册\WordReport\obj\Debug\WordReport.LuaFrm.resources
+E:\公司项目\1123# V0.0.0.5\源程序\软件注册\WordReport\obj\Debug\注册码生成.exe
+E:\公司项目\1123# V0.0.0.5\源程序\软件注册\WordReport\obj\Debug\注册码生成.pdb
+E:\公司项目\1123# V0.0.0.5\源程序\软件注册\WordReport\bin\Debug\注册码生成.exe
+E:\公司项目\1123# V0.0.0.5\源程序\软件注册\WordReport\bin\Debug\注册码生成.pdb
+E:\公司项目\1123# V0.0.0.5\源程序\软件注册\WordReport\bin\Debug\Microsoft.Office.Interop.Word.dll
+E:\公司项目\1123# V0.0.0.5\源程序\软件注册\WordReport\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\公司项目\1123# V0.0.0.5\源程序\软件注册\WordReport\bin\Debug\office.dll
+E:\公司项目\1123# V0.0.0.5\源程序\软件注册\WordReport\obj\Debug\ResolveAssemblyReference.cache
+E:\公司项目\1123# V0.0.0.5\源程序\软件注册\WordReport\obj\Debug\WordReport.LuaFrm.resources
+E:\公司项目\1123# V0.0.0.5\源程序\软件注册\WordReport\obj\Debug\WordReport.Properties.Resources.resources
+E:\公司项目\1123# V0.0.0.5\源程序\软件注册\WordReport\obj\Debug\WordReport.RegGenerateFrm.resources
+E:\公司项目\1123# V0.0.0.5\源程序\软件注册\WordReport\obj\Debug\WordReport.RegisterFrm.resources
+E:\公司项目\1123# V0.0.0.5\源程序\软件注册\WordReport\obj\Debug\SoftRegister.csproj.GenerateResource.Cache
+F:\EMC\软件注册\WordReport\obj\Debug\注册码生成.exe
+F:\EMC\软件注册\WordReport\obj\Debug\注册码生成.pdb
+F:\EMC\软件注册\WordReport\obj\Debug\ResolveAssemblyReference.cache
+F:\EMC\软件注册\WordReport\obj\Debug\WordReport.LuaFrm.resources
+F:\EMC\软件注册\WordReport\obj\Debug\WordReport.Properties.Resources.resources
+F:\EMC\软件注册\WordReport\obj\Debug\WordReport.RegGenerateFrm.resources
+F:\EMC\软件注册\WordReport\obj\Debug\WordReport.RegisterFrm.resources
+F:\EMC\软件注册\WordReport\obj\Debug\SoftRegister.csproj.GenerateResource.Cache
+F:\EMC\软件注册\WordReport\bin\Debug\注册码生成.exe
+F:\EMC\软件注册\WordReport\bin\Debug\注册码生成.pdb
+F:\EMC\软件注册\WordReport\bin\Debug\Microsoft.Office.Interop.Word.dll
+F:\EMC\软件注册\WordReport\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\EMC\软件注册\WordReport\bin\Debug\office.dll
+F:\EMC\Old\软件注册\WordReport\obj\Debug\注册码生成.exe
+F:\EMC\Old\软件注册\WordReport\obj\Debug\注册码生成.pdb
+F:\EMC\Old\软件注册\WordReport\bin\Debug\注册码生成.exe
+F:\EMC\Old\软件注册\WordReport\bin\Debug\注册码生成.pdb
+F:\EMC\Old\软件注册\WordReport\bin\Debug\Microsoft.Office.Interop.Word.dll
+F:\EMC\Old\软件注册\WordReport\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\EMC\Old\软件注册\WordReport\bin\Debug\office.dll
+F:\EMC\Old\软件注册\WordReport\obj\Debug\ResolveAssemblyReference.cache
+F:\EMC\Old\软件注册\WordReport\obj\Debug\WordReport.LuaFrm.resources
+F:\EMC\Old\软件注册\WordReport\obj\Debug\WordReport.MainWindow.resources
+F:\EMC\Old\软件注册\WordReport\obj\Debug\WordReport.Properties.Resources.resources
+F:\EMC\Old\软件注册\WordReport\obj\Debug\WordReport.RegGenerateFrm.resources
+F:\EMC\Old\软件注册\WordReport\obj\Debug\WordReport.RegisterFrm.resources
+F:\EMC\Old\软件注册\WordReport\obj\Debug\SoftRegister.csproj.GenerateResource.Cache
+E:\软件注册\WordReport\obj\Debug\注册码生成.exe
+E:\软件注册\WordReport\obj\Debug\注册码生成.pdb
+E:\软件注册\WordReport\bin\Debug\注册码生成.exe
+E:\软件注册\WordReport\bin\Debug\注册码生成.pdb
+E:\软件注册\WordReport\bin\Debug\Microsoft.Office.Interop.Word.dll
+E:\软件注册\WordReport\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\软件注册\WordReport\bin\Debug\office.dll
+E:\软件注册\WordReport\obj\Debug\ResolveAssemblyReference.cache
+E:\软件注册\WordReport\obj\Debug\WordReport.LuaFrm.resources
+E:\软件注册\WordReport\obj\Debug\WordReport.MainWindow.resources
+E:\软件注册\WordReport\obj\Debug\WordReport.Properties.Resources.resources
+E:\软件注册\WordReport\obj\Debug\WordReport.RegGenerateFrm.resources
+E:\软件注册\WordReport\obj\Debug\WordReport.RegisterFrm.resources
+E:\软件注册\WordReport\obj\Debug\SoftRegister.csproj.GenerateResource.Cache

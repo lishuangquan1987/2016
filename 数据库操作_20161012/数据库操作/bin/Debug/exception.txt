@@ -1,0 +1,1 @@
+Input string was not in a correct format.已成功与服务器建立连接，但是在登录前的握手期间发生错误。 (provider: TCP Provider, error: 0 - 远程主机强迫关闭了一个现有的连接。)
