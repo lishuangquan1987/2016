@@ -1,0 +1,16 @@
+D:\Project\Project2016\Test\WPF-滚动字幕\bin\Debug\WPF-滚动字幕.exe.config
+D:\Project\Project2016\Test\WPF-滚动字幕\bin\Debug\WPF-滚动字幕.exe
+D:\Project\Project2016\Test\WPF-滚动字幕\bin\Debug\WPF-滚动字幕.pdb
+D:\Project\Project2016\Test\WPF-滚动字幕\obj\Debug\UCRollingText.baml
+D:\Project\Project2016\Test\WPF-滚动字幕\obj\Debug\MainWindow.g.cs
+D:\Project\Project2016\Test\WPF-滚动字幕\obj\Debug\UCRollingText.g.cs
+D:\Project\Project2016\Test\WPF-滚动字幕\obj\Debug\App.g.cs
+D:\Project\Project2016\Test\WPF-滚动字幕\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Project\Project2016\Test\WPF-滚动字幕\obj\Debug\WPF-滚动字幕_MarkupCompile.cache
+D:\Project\Project2016\Test\WPF-滚动字幕\obj\Debug\WPF-滚动字幕_MarkupCompile.lref
+D:\Project\Project2016\Test\WPF-滚动字幕\obj\Debug\MainWindow.baml
+D:\Project\Project2016\Test\WPF-滚动字幕\obj\Debug\WPF-滚动字幕.g.resources
+D:\Project\Project2016\Test\WPF-滚动字幕\obj\Debug\WPF_滚动字幕.Properties.Resources.resources
+D:\Project\Project2016\Test\WPF-滚动字幕\obj\Debug\WPF-滚动字幕.csproj.GenerateResource.Cache
+D:\Project\Project2016\Test\WPF-滚动字幕\obj\Debug\WPF-滚动字幕.exe
+D:\Project\Project2016\Test\WPF-滚动字幕\obj\Debug\WPF-滚动字幕.pdb

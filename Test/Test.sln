@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF-绚丽动画", "WPF-绚
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF-动态图片当背景", "WPF-动态图片当背景\WPF-动态图片当背景.csproj", "{0AA26523-F267-48A9-9A4C-EEE01333ED41}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF-滚动字幕", "WPF-滚动字幕\WPF-滚动字幕.csproj", "{80915F49-AE0C-4BFC-BA47-8C4ED82BD9D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{0AA26523-F267-48A9-9A4C-EEE01333ED41}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0AA26523-F267-48A9-9A4C-EEE01333ED41}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0AA26523-F267-48A9-9A4C-EEE01333ED41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80915F49-AE0C-4BFC-BA47-8C4ED82BD9D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80915F49-AE0C-4BFC-BA47-8C4ED82BD9D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80915F49-AE0C-4BFC-BA47-8C4ED82BD9D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80915F49-AE0C-4BFC-BA47-8C4ED82BD9D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

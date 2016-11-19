@@ -12,3 +12,5 @@ E:\Project2016\Test\WPF-动态图片当背景\obj\Debug\WPF-动态图片当背�
 E:\Project2016\Test\WPF-动态图片当背景\obj\Debug\WPF-动态图片当背景.pdb
 E:\Project2016\Test\WPF-动态图片当背景\bin\Debug\20141129014807_n4cNm.gif
 E:\Project2016\Test\WPF-动态图片当背景\obj\Debug\WPF-动态图片当背景_Content.g.cs
+D:\Project\Project2016\Test\WPF-动态图片当背景\obj\Debug\WPF-动态图片当背景.exe
+D:\Project\Project2016\Test\WPF-动态图片当背景\obj\Debug\WPF-动态图片当背景.pdb
