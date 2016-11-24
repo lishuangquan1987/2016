@@ -1,0 +1,13 @@
+D:\Project\Project2016\Test\WPF-LuaInterface\bin\Debug\WPF-LuaInterface.exe.config
+D:\Project\Project2016\Test\WPF-LuaInterface\bin\Debug\WPF-LuaInterface.exe
+D:\Project\Project2016\Test\WPF-LuaInterface\bin\Debug\WPF-LuaInterface.pdb
+D:\Project\Project2016\Test\WPF-LuaInterface\obj\Debug\WPF-LuaInterface.csprojResolveAssemblyReference.cache
+D:\Project\Project2016\Test\WPF-LuaInterface\obj\Debug\MainWindow.baml
+D:\Project\Project2016\Test\WPF-LuaInterface\obj\Debug\MainWindow.g.cs
+D:\Project\Project2016\Test\WPF-LuaInterface\obj\Debug\App.g.cs
+D:\Project\Project2016\Test\WPF-LuaInterface\obj\Debug\WPF-LuaInterface_MarkupCompile.cache
+D:\Project\Project2016\Test\WPF-LuaInterface\obj\Debug\WPF-LuaInterface.g.resources
+D:\Project\Project2016\Test\WPF-LuaInterface\obj\Debug\WPF_LuaInterface.Properties.Resources.resources
+D:\Project\Project2016\Test\WPF-LuaInterface\obj\Debug\WPF-LuaInterface.csproj.GenerateResource.Cache
+D:\Project\Project2016\Test\WPF-LuaInterface\obj\Debug\WPF-LuaInterface.exe
+D:\Project\Project2016\Test\WPF-LuaInterface\obj\Debug\WPF-LuaInterface.pdb
