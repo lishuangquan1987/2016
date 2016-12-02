@@ -1,0 +1,18 @@
+﻿<Window x:Class="WPFControls.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+
+    <Grid>
+        <ListView HorizontalAlignment="Left" Height="127" Margin="154,96,0,0" VerticalAlignment="Top" Width="280" ItemsPanel="{DynamicResource ItemsPanelTemplate1}">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn/>
+                </GridView>
+            </ListView.View>
+            
+
+        </ListView>
+
+    </Grid>
+</Window>

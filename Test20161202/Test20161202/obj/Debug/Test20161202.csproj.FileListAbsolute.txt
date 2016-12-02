@@ -1,0 +1,12 @@
+E:\Project\Test20161202\Test20161202\bin\Debug\Test20161202.exe
+E:\Project\Test20161202\Test20161202\bin\Debug\Test20161202.pdb
+E:\Project\Test20161202\Test20161202\bin\Debug\WPF.Model.dll
+E:\Project\Test20161202\Test20161202\bin\Debug\WPFControls.exe
+E:\Project\Test20161202\Test20161202\bin\Debug\WPF.Model.pdb
+E:\Project\Test20161202\Test20161202\bin\Debug\WPFControls.pdb
+E:\Project\Test20161202\Test20161202\obj\Debug\Test20161202.csprojResolveAssemblyReference.cache
+E:\Project\Test20161202\Test20161202\obj\Debug\Test20161202.Form1.resources
+E:\Project\Test20161202\Test20161202\obj\Debug\Test20161202.Properties.Resources.resources
+E:\Project\Test20161202\Test20161202\obj\Debug\Test20161202.csproj.GenerateResource.Cache
+E:\Project\Test20161202\Test20161202\obj\Debug\Test20161202.exe
+E:\Project\Test20161202\Test20161202\obj\Debug\Test20161202.pdb

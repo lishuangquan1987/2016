@@ -1,0 +1,4 @@
+E:\Project\Test20161202\WPF.Model\bin\Debug\WPF.Model.dll
+E:\Project\Test20161202\WPF.Model\bin\Debug\WPF.Model.pdb
+E:\Project\Test20161202\WPF.Model\obj\Debug\WPF.Model.dll
+E:\Project\Test20161202\WPF.Model\obj\Debug\WPF.Model.pdb

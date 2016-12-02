@@ -1,0 +1,57 @@
+﻿<UserControl x:Class="WPFControls.UCListView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             xmlns:local="clr-namespace:WPFControls"
+             d:DesignHeight="300" Background="Wheat" Width="592">
+    <UserControl.Resources>
+        <local:ColorConverter x:Key="colorConverter"></local:ColorConverter>
+        <Style TargetType="ListViewItem">
+            <Setter Property="Background" Value="{Binding TestStatus, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged, Converter={StaticResource colorConverter}}"></Setter>
+            <Setter Property="HorizontalContentAlignment" Value="Center"></Setter>
+            <Style.Triggers>
+                <Trigger  Property="IsSelected" Value="true">
+                    <Setter Property="Background" Value="LightGreen"></Setter>
+                </Trigger>
+                <EventTrigger RoutedEvent="MouseEnter" >
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimation Storyboard.TargetProperty="FontSize"  From="12" To="20" Duration="0:0:0.1"></DoubleAnimation>
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+                <EventTrigger RoutedEvent="MouseLeave" >
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimation Storyboard.TargetProperty="FontSize"  From="20" To="12" Duration="0:0:0.1"></DoubleAnimation>
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </Style.Triggers>
+            
+        </Style>
+        <Style TargetType="GridViewColumnHeader">
+            <Setter Property="Background" Value="LightBlue" ></Setter>
+            <Setter Property="FontSize" Value="18"></Setter>
+            <Setter Property="FontWeight" Value="Bold"></Setter>
+        </Style>
+    </UserControl.Resources>
+    <Grid>
+        <ListView HorizontalContentAlignment="Center"  ItemsSource="{Binding LstTestItem}" >
+            <ListView.View >
+                <GridView >
+                    <GridViewColumn  Header="ItemName" Width="150" DisplayMemberBinding="{Binding ItemName, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"></GridViewColumn>
+                    <GridViewColumn Header="Upper"  Width="70" DisplayMemberBinding="{Binding Upper, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"></GridViewColumn>
+                    <GridViewColumn Header="Lower"  Width="70" DisplayMemberBinding="{Binding Lower, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"></GridViewColumn>
+                    <GridViewColumn Header="Value"  Width="200" DisplayMemberBinding="{Binding Value, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"></GridViewColumn>                                      
+                </GridView>
+            </ListView.View>
+            
+        </ListView>
+        
+        
+
+    </Grid>
+</UserControl>
